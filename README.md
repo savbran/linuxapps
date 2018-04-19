@@ -1,13 +1,13 @@
-## :fa-linux: LINUX APPS :fa-chevron-right: Linux software I like to use
+## LINUX APPS - Linux software I like to use
 
-### :fa-paint-brush: Graphics
+### Graphics
 
-### :fa-music: Music
+###  Music
 
-### :fa-bar-chart: Office
+###  Office
 
-### :fa-terminal: Command line
+### Command line
 
-### :fa-globe: Internet
+### Internet
 
-### :fa-cubes: Firefox plugins
+### Firefox plugins
