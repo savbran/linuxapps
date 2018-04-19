@@ -1,4 +1,4 @@
-### Personal list of useful linux software 
+### ~ Personal list of useful linux software ~
 #### Command line
 #### Graphics
 - [Aseprite](https://www.aseprite.org "Aseprite") - Animated sprite editor & pixel art tool.
