@@ -41,6 +41,4 @@
 #### Games
 - [Frogatto](https://frogatto.com "Frogatto") - Action-adventure game, starring a certain quixotic frog.
 - [SuperTuxKart](https://supertuxkart.net "SuperTuxKart") - 3D arcade racer with a variety characters, tracks, and modes to play.
-- [Tales of Maj'Eyal](https://te4.org "Tales of Maj'Eyal") - Roguelike roleplaying fantasy game featuring tactical turn-based combat and advanced character building.
-
-
+- [Tales of Maj'Eyal](https://te4.org "Tales of Maj'Eyal") - Roguelike RPG fantasy game featuring turn-based combat and character building.
