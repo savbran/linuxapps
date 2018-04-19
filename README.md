@@ -1,5 +1,9 @@
 ### ~ Personal list of useful linux software ~
+
 #### Command line
+#### Audio/Video
+- [OBS Studio](https://obsproject.com "OBS Studio") - Software for video recording and live streaming.
+- [VLC media player](https://www.videolan.org/vlc/index.html "VLC media player") - Multimedia player and framework that plays most multimedia files.
 #### Graphics
 - [Aseprite](https://www.aseprite.org "Aseprite") - Animated sprite editor & pixel art tool.
 - [Evolvotron](http://www.bottlenose.net/share/evolvotron "Evolvotron") - An interactive "generative art" application for Linux.
@@ -8,8 +12,7 @@
 - [Krita](https://krita.org "Krita") - A professional FREE and open source painting program.
 - [Inkscape](https://inkscape.org "Inkscape") - Open-source vector graphics editor
 - [Master PDF Editor](https://code-industry.net/masterpdfeditor/ "Master PDF Editor") - Multifunctional PDF Editor
-####  Music
-####  Office
+#### Office
 #### Internet
 #### Firefox plugins
 #### Programming
