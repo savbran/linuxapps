@@ -2,8 +2,10 @@
 
 #### Command line
 #### Audio/Video
-- [OBS Studio](https://obsproject.com "OBS Studio") - Software for video recording and live streaming.
+- [Kdenlive](https://kdenlive.org "Kdenlive") - KDE Non-Linear Video Editor.
+- [OBS Studio](https://obsproject.com "OBS Studio") - Video recording and live streaming.
 - [VLC media player](https://www.videolan.org/vlc/index.html "VLC media player") - Multimedia player and framework that plays most multimedia files.
+
 #### Graphics
 - [Aseprite](https://www.aseprite.org "Aseprite") - Animated sprite editor & pixel art tool.
 - [Evolvotron](http://www.bottlenose.net/share/evolvotron "Evolvotron") - An interactive "generative art" application for Linux.
