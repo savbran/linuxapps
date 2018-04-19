@@ -4,13 +4,10 @@
 
 #### Audio/Video
 - [Audacity](http://www.audacityteam.org "Audacity") - Audio software for multi-track recording and editing.
-- [MusicBrainz Picard](https://picard.musicbrainz.org "MusicBrainz Picard") - Music tagger that recovers music info from internet.
 - [Kdenlive](https://kdenlive.org "Kdenlive") - KDE Non-Linear Video Editor.
+- [MusicBrainz Picard](https://picard.musicbrainz.org "MusicBrainz Picard") - Music tagger that recovers music info from internet.
 - [OBS Studio](https://obsproject.com "OBS Studio") - Video recording and live streaming.
 - [VLC media player](https://www.videolan.org/vlc/index.html "VLC media player") - Multimedia player and framework that plays most multimedia files.
-- [Jitsi](https://jitsi.org "Jitsi") - Projects that allows you to easily build and deploy secure videoconferencing solutions.
-
-
 
 #### Graphics
 - [Aseprite](https://www.aseprite.org "Aseprite") - Animated sprite editor & pixel art tool.
@@ -32,3 +29,6 @@
 - [Video DownloadHelper](https://addons.mozilla.org/it/firefox/addon/video-downloadhelper "Video DownloadHelper") - Download and convert Web videos from hundreds of YouTube-like sites.
 
 #### Programming
+
+#### Server
+- [Jitsi](https://jitsi.org "Jitsi") - Projects that allows you to easily build and deploy secure videoconferencing solutions.
