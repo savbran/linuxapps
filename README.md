@@ -1,6 +1,11 @@
-## LINUX APPS - Linux software I like to use
+## Linux software I like to use
 
 ### Graphics
+- [Aseprite](https://www.aseprite.org "Aseprite") - Animated sprite editor & pixel art tool.
+- [Gimp](http://www.gimp.org "Gimp") - GNU Image Manipulation Program.
+- [Krita](https://krita.org "Krita") - A professional FREE and open source painting program.
+- [Inkscape](https://inkscape.org "Inkscape") - Open-source vector graphics editor
+- [Master PDF Editor](https://code-industry.net/masterpdfeditor/ "Master PDF Editor") - Multifunctional PDF Editor
 
 ###  Music
 
