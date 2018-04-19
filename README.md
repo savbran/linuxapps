@@ -45,3 +45,4 @@
 
 #### System
 - [Wine](https://www.winehq.org "Wine") - A compatibility layer capable of running Windows applications on POSIX-compliant operating systems.
+- [Winetricks](https://github.com/Winetricks/winetricks "Winetricks") - An easy tool to work around problems in Wine.
