@@ -33,4 +33,5 @@
 
 
 #### Server
+- [Apache HTTP Server](https://httpd.apache.org "Apache HTTP Server") - HTTP (Web) server.
 - [Jitsi](https://jitsi.org "Jitsi") - Projects that allows you to easily build and deploy secure videoconferencing solutions.
