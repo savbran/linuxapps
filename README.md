@@ -17,6 +17,12 @@
 - [SuperTuxKart](https://supertuxkart.net "SuperTuxKart") - 3D arcade racer with a variety characters, tracks, and modes to play.
 - [Tales of Maj'Eyal](https://te4.org "Tales of Maj'Eyal") - Roguelike RPG fantasy game featuring turn-based combat and character building.
 
+#### Games - Emulators and related GUI front-ends
+- [DBGL](http://members.quicknet.nl/blankendaalr/dbgl "DOSBox Game Launcher") - Multi-platform frontend for DOSBox.
+- [DOSBox](http://www.dosbox.com "DOSBox") - DOS-emulator that uses the SDL-library.
+- [QMC2](http://qmc2.batcom-it.net "QMC2") - Qt based multi-platform GUI front end for MAME and SDLMAME.
+- [SDLMAME](http://sdlmame.wallyweek.org "SDLMAME") - Port of the popular [MAME™](http://mamedev.org "Multiple Arcade Machine Emulator™") emulator to the SDL library.
+
 #### Graphics
 - [Aseprite](https://www.aseprite.org "Aseprite") - Animated sprite editor & pixel art tool.
 - [Blender](https://www.blender.org "Blender") - 3D creation suite.
