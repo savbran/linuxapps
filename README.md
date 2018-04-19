@@ -1,6 +1,8 @@
 ### ~ Personal list of useful linux software ~
 
 #### Command line
+- [screenfetch](https://github.com/KittyKatt/screenFetch "screenfetch") - Fetches system/theme information in terminal for Linux desktop screenshots.
+- [youtube-dl](https://rg3.github.io/youtube-dl "youtube-dl") - A command-line program to download videos from YouTube.com and a few more sites.
 
 #### Audio/Video
 - [Audacity](http://www.audacityteam.org "Audacity") - Audio software for multi-track recording and editing.
