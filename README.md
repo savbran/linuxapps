@@ -2,9 +2,11 @@
 
 #### Command line
 #### Audio/Video
+- [MusicBrainz Picard](https://picard.musicbrainz.org "MusicBrainz Picard") - Music tagger that recovers music info from internet.
 - [Kdenlive](https://kdenlive.org "Kdenlive") - KDE Non-Linear Video Editor.
 - [OBS Studio](https://obsproject.com "OBS Studio") - Video recording and live streaming.
 - [VLC media player](https://www.videolan.org/vlc/index.html "VLC media player") - Multimedia player and framework that plays most multimedia files.
+
 
 #### Graphics
 - [Aseprite](https://www.aseprite.org "Aseprite") - Animated sprite editor & pixel art tool.
