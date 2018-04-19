@@ -22,13 +22,15 @@
 #### Office
 - [LibreOffice](https://www.libreoffice.org "LibreOffice") - A powerful office suite.
 
-#### Internet
-
 #### Firefox plugins
 - [Feedbro](https://addons.mozilla.org/it/firefox/addon/feedbroreader "Feedbro") - Tree-based RSS feed navigation with folders and drag & drop support.
 - [Video DownloadHelper](https://addons.mozilla.org/it/firefox/addon/video-downloadhelper "Video DownloadHelper") - Download and convert Web videos from hundreds of YouTube-like sites.
 
 #### Programming
+- [Eclipse](https://www.eclipse.org "Eclipse") - Cross-plattform and cross-language IDE.
+- [Visual Studio Code](https://code.visualstudio.com "Visual Studio Code") - A lightweight but powerful source code editor.
+
+
 
 #### Server
 - [Jitsi](https://jitsi.org "Jitsi") - Projects that allows you to easily build and deploy secure videoconferencing solutions.
