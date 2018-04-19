@@ -12,6 +12,11 @@
 - [OBS Studio](https://obsproject.com "OBS Studio") - Video recording and live streaming.
 - [VLC media player](https://www.videolan.org/vlc/index.html "VLC media player") - Multimedia player and framework that plays most multimedia files.
 
+#### Games
+- [Frogatto](https://frogatto.com "Frogatto") - Action-adventure game, starring a certain quixotic frog.
+- [SuperTuxKart](https://supertuxkart.net "SuperTuxKart") - 3D arcade racer with a variety characters, tracks, and modes to play.
+- [Tales of Maj'Eyal](https://te4.org "Tales of Maj'Eyal") - Roguelike RPG fantasy game featuring turn-based combat and character building.
+
 #### Graphics
 - [Aseprite](https://www.aseprite.org "Aseprite") - Animated sprite editor & pixel art tool.
 - [Blender](https://www.blender.org "Blender") - 3D creation suite.
@@ -38,7 +43,5 @@
 - [Apache HTTP Server](https://httpd.apache.org "Apache HTTP Server") - HTTP (Web) server.
 - [Jitsi](https://jitsi.org "Jitsi") - Projects that allows you to easily build and deploy secure videoconferencing solutions.
 
-#### Games
-- [Frogatto](https://frogatto.com "Frogatto") - Action-adventure game, starring a certain quixotic frog.
-- [SuperTuxKart](https://supertuxkart.net "SuperTuxKart") - 3D arcade racer with a variety characters, tracks, and modes to play.
-- [Tales of Maj'Eyal](https://te4.org "Tales of Maj'Eyal") - Roguelike RPG fantasy game featuring turn-based combat and character building.
+#### System
+- [Wine](https://www.winehq.org "Wine") - A compatibility layer capable of running Windows applications on POSIX-compliant operating systems.
