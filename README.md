@@ -31,8 +31,8 @@
 - [Gimp](http://www.gimp.org "Gimp") - GNU Image Manipulation Program.
 - [Gravit Designer](https://www.designer.io "Gravit Designer") - A cross-platform design tool.
 - [Krita](https://krita.org "Krita") - A professional FREE and open source painting program.
-- [Inkscape](https://inkscape.org "Inkscape") - Open-source vector graphics editor
-- [Master PDF Editor](https://code-industry.net/masterpdfeditor/ "Master PDF Editor") - Multifunctional PDF Editor
+- [Inkscape](https://inkscape.org "Inkscape") - Open-source vector graphics editor.
+- [Master PDF Editor](https://code-industry.net/masterpdfeditor/ "Master PDF Editor") - Multifunctional PDF Editor.
 
 #### Office
 - [LibreOffice](https://www.libreoffice.org "LibreOffice") - A powerful office suite.
