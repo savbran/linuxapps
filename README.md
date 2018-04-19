@@ -25,7 +25,7 @@
 #### Internet
 
 #### Firefox plugins
-- [Feedbro](https://nodetics.com/feedbro "Feedbro") - Tree-based RSS feed navigation with folders and drag & drop support.
+- [Feedbro](https://addons.mozilla.org/it/firefox/addon/feedbroreader "Feedbro") - Tree-based RSS feed navigation with folders and drag & drop support.
 - [Video DownloadHelper](https://addons.mozilla.org/it/firefox/addon/video-downloadhelper "Video DownloadHelper") - Download and convert Web videos from hundreds of YouTube-like sites.
 
 #### Programming
