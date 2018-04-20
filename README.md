@@ -1,5 +1,4 @@
 ### ~ Personal list of useful linux software ~
-------------
 #### Command line
 - [OpenSSH](https://www.openssh.com "OpenSSH") - The premier connectivity tool for remote login with the SSH protocol.
 - [screenfetch](https://github.com/KittyKatt/screenFetch "screenfetch") - Fetches system/theme information in terminal for Linux desktop screenshots.
@@ -9,8 +8,6 @@
 - [Frogatto](https://frogatto.com "Frogatto") - Action-adventure game, starring a certain quixotic frog.
 - [SuperTuxKart](https://supertuxkart.net "SuperTuxKart") - 3D arcade racer with a variety characters, tracks, and modes to play.
 - [Tales of Maj'Eyal](https://te4.org "Tales of Maj'Eyal") - Roguelike RPG fantasy game featuring turn-based combat and character building.
-
-
 - **Emulators, GUI front-ends**
   - [DBGL](http://members.quicknet.nl/blankendaalr/dbgl "DOSBox Game Launcher") - Multi-platform frontend for DOSBox.
   - [DOSBox](http://www.dosbox.com "DOSBox") - DOS-emulator that uses the SDL-library.
