@@ -28,8 +28,6 @@
     - [Audacity](http://www.audacityteam.org "Audacity") - Audio software for multi-track recording and editing.
     - [LMMS](https://lmms.io "Linux Multi-Media Studio") - Produce music with your computer.
     - [MusicBrainz Picard](https://picard.musicbrainz.org "MusicBrainz Picard") - Music tagger that recovers music info from internet.
-
-
 - **Video**
     - [Kdenlive](https://kdenlive.org "Kdenlive") - KDE Non-Linear Video Editor.
     - [OBS Studio](https://obsproject.com "OBS Studio") - Video recording and live streaming.
