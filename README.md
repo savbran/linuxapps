@@ -1,4 +1,5 @@
-### ~ Personal list of useful linux software ~
+## ~ Personal list of useful linux software ~
+The software listed in the following cateogries represents a personal selection of what is worth using in the log term. No 'exotic' or incomplete software should be reported.
 ### Command line
 - [OpenSSH](https://www.openssh.com "OpenSSH") - The premier connectivity tool for remote login with the SSH protocol.
 - [screenfetch](https://github.com/KittyKatt/screenFetch "screenfetch") - Fetches system/theme information in terminal for Linux desktop screenshots.
