@@ -50,7 +50,6 @@ The software listed in the following cateogries represents a personal selection 
   - [DevStyle](https://www.genuitec.com/products/devstyle "DevStyle") - Modernizing tools for Eclipse (theming, breadcrumb navigation, etc).
   - [EGit](https://marketplace.eclipse.org/content/egit-git-integration-eclipse "EGit") - Git integration for Eclipse.
   - [Subclipse](https://marketplace.eclipse.org/content/subclipse "Subclipse") - Support for Subversion within the Eclipse IDE.
-
 - [Editor.md](https://pandao.github.io/editor.md/en.html "Editor.md") - Online markdown editor.
 - [Visual Studio Code](https://code.visualstudio.com "Visual Studio Code") - A lightweight but powerful source code editor.
 ------------
