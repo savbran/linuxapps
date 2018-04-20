@@ -44,12 +44,14 @@ The software listed in the following cateogries represents a personal selection 
 - [Master PDF Editor](https://code-industry.net/masterpdfeditor/ "Master PDF Editor") - Multifunctional PDF Editor.
 ------------
 ### Programming
-- [Eclipse](https://www.eclipse.org "Eclipse") - Cross-plattform and cross-language IDE.
+- [Eclipse](https://www.eclipse.org "Eclipse") - Cross-plattform and cross-language IDE with powerful tools.
 - **Eclipse plugins, can be installed from Eclipse Marketplace**
   - [DevStyle](https://www.genuitec.com/products/devstyle "DevStyle") - Modernizing tools for Eclipse (theming, breadcrumb navigation, etc).
   - [EGit](https://marketplace.eclipse.org/content/egit-git-integration-eclipse "EGit") - Git integration for Eclipse.
-  - [PyDev](http://www.pydev.org "PyDev") - Python IDE for Eclipse, it can be also installed from Eclipse Marketplace.
+  - [PyDev](http://www.pydev.org "PyDev") - Python IDE for Eclipse.
   - [Subclipse](https://marketplace.eclipse.org/content/subclipse "Subclipse") - Support for Subversion within the Eclipse IDE.
+  - [STS](https://marketplace.eclipse.org/content/spring-tools-aka-spring-ide-and-spring-tool-suite "Spring Tool Suite") - Environment for building Spring-powered enterprise applications.
+  - [WTP](https://marketplace.eclipse.org/content/eclipse-web-developer-tools-0 "Web Tools Platform") - Eclipse Web Developer Tools. Includes HTML, CSS, JSON, JavaScript, XML.
 - [Editor.md](https://pandao.github.io/editor.md/en.html "Editor.md") - Online markdown editor.
 - [Visual Studio Code](https://code.visualstudio.com "Visual Studio Code") - A lightweight but powerful source code editor.
 ------------
