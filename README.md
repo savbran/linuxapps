@@ -23,6 +23,11 @@
 - [Krita](https://krita.org "Krita") - A professional FREE and open source painting program.
 - [Inkscape](https://inkscape.org "Inkscape") - Open-source vector graphics editor.
 ------------
+#### Internet
+- **Firefox plugins**
+  - [Feedbro](https://addons.mozilla.org/it/firefox/addon/feedbroreader "Feedbro") - Tree-based RSS feed navigation with folders and drag & drop support.
+  - [Video DownloadHelper](https://addons.mozilla.org/it/firefox/addon/video-downloadhelper "Video DownloadHelper") - Download and convert Web videos from hundreds of YouTube-like sites.
+------------
 #### Multimedia
 - **Audio**
     - [Audacity](http://www.audacityteam.org "Audacity") - Audio software for multi-track recording and editing.
@@ -37,15 +42,14 @@
 - [LibreOffice](https://www.libreoffice.org "LibreOffice") - A powerful office suite.
 - [Master PDF Editor](https://code-industry.net/masterpdfeditor/ "Master PDF Editor") - Multifunctional PDF Editor.
 ------------
-#### Firefox plugins
-- [Feedbro](https://addons.mozilla.org/it/firefox/addon/feedbroreader "Feedbro") - Tree-based RSS feed navigation with folders and drag & drop support.
-- [Video DownloadHelper](https://addons.mozilla.org/it/firefox/addon/video-downloadhelper "Video DownloadHelper") - Download and convert Web videos from hundreds of YouTube-like sites.
-------------
 #### Programming
 - [Eclipse](https://www.eclipse.org "Eclipse") - Cross-plattform and cross-language IDE.
 - [PyDev](http://www.pydev.org "PyDev") - Python IDE for Eclipse, it can be also installed from Eclipse Marketplace.
 - [Editor.md](https://pandao.github.io/editor.md/en.html "Editor.md") - Online markdown editor.
 - [Visual Studio Code](https://code.visualstudio.com "Visual Studio Code") - A lightweight but powerful source code editor.
+------------
+#### School and Science
+- [GeoGebra](https://www.geogebra.org "GeoGebra") - Solve equations, graph functions, create constructions, analyze data, explore 3D math!
 ------------
 #### Server
 - [Apache HTTP Server](https://httpd.apache.org "Apache HTTP Server") - HTTP (Web) server.
