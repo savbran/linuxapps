@@ -16,13 +16,16 @@ The software listed in the following cateogries represents a personal selection 
   - [SDLMAME](http://sdlmame.wallyweek.org "SDLMAME") - Port of the popular [MAME™](http://mamedev.org "Multiple Arcade Machine Emulator™") emulator to the SDL library.
 ------------
 ### Graphics
-- [Aseprite](https://www.aseprite.org "Aseprite") - Animated sprite editor & pixel art tool.
-- [Blender](https://www.blender.org "Blender") - 3D creation suite.
-- [Evolvotron](http://www.bottlenose.net/share/evolvotron "Evolvotron") - An interactive "generative art" application for Linux.
-- [Gimp](http://www.gimp.org "Gimp") - GNU Image Manipulation Program.
-- [Gravit Designer](https://www.designer.io "Gravit Designer") - A cross-platform design tool.
-- [Krita](https://krita.org "Krita") - A professional FREE and open source painting program.
-- [Inkscape](https://inkscape.org "Inkscape") - Open-source vector graphics editor.
+- **2D**
+  - [Aseprite](https://www.aseprite.org "Aseprite") - Animated sprite editor & pixel art tool.
+  - [Evolvotron](http://www.bottlenose.net/share/evolvotron "Evolvotron") - An interactive "generative art" application for Linux.
+  - [Gimp](http://www.gimp.org "Gimp") - GNU Image Manipulation Program.
+  - [Gravit Designer](https://www.designer.io "Gravit Designer") - A cross-platform design tool.
+  - [Krita](https://krita.org "Krita") - A professional FREE and open source painting program.
+  - [Inkscape](https://inkscape.org "Inkscape") - Open-source vector graphics editor.
+- **3D**
+  - [Blender](https://www.blender.org "Blender") - 3D creation suite.
+  - [FreeCAD](https://freecadweb.org "FreeCAD") - A parametric 3D modeler made primarily to design real-life objects of any size.
 ------------
 ### Internet
 - **Firefox plugins**
