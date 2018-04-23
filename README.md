@@ -66,5 +66,6 @@ The software listed in the following cateogries represents a personal selection 
 - [Jitsi](https://jitsi.org "Jitsi") - Projects that allows you to easily build and deploy secure videoconferencing solutions.
 ------------
 ### System
+- [QDirStat](https://github.com/shundhammer/qdirstat "QDirStat") - Graphical application to show where your disk space has gone and to help you to clean it up.
 - [Wine](https://www.winehq.org "Wine") - A compatibility layer capable of running Windows applications on POSIX-compliant operating systems.
 - [Winetricks](https://github.com/Winetricks/winetricks "Winetricks") - An easy tool to work around problems in Wine.
