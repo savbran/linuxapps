@@ -12,7 +12,7 @@ The software listed in the following cateogries represents a personal selection 
 - **Emulators, GUI front-ends**
   - **C64**
     - [jGameBase](https://jgamebase.sourceforge.io "jGameBase") - Retro-gaming emu­lator front­end and game data­base utility (for C64 and other emulators).
-    - [VICE](http://vice-emu.sourceforge.net "the VersatIle Commodore Emulator") - Cross-platform emulator, it executes programs intended for the old 8-bit computers: C64, C64DTV, C128, VIC20, etc.
+    - [VICE](http://vice-emu.sourceforge.net "the VersatIle Commodore Emulator") - Cross-platform emulator for old 8-bit computers: C64, C64DTV, C128, VIC20.
   - **DosBox**
     - [DBGL](http://members.quicknet.nl/blankendaalr/dbgl "DOSBox Game Launcher") - Multi-platform frontend for DOSBox.
     - [DOSBox](http://www.dosbox.com "DOSBox") - DOS-emulator that uses the SDL-library.
