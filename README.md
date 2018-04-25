@@ -22,6 +22,7 @@ The software listed in the following cateogries represents a personal selection 
 ------------
 ### Graphics
 - **2D**
+  - [Alchemy](http://al.chemy.org "Alchemy") - Explore and experiment with alternative ways of drawing.
   - [Aseprite](https://www.aseprite.org "Aseprite") - Animated sprite editor & pixel art tool.
   - [Evolvotron](http://www.bottlenose.net/share/evolvotron "Evolvotron") - An interactive "generative art" application for Linux.
   - [Gimp](http://www.gimp.org "Gimp") - GNU Image Manipulation Program.
