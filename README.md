@@ -41,6 +41,7 @@ The software listed in the following cateogries represents a personal selection 
 - **Audio**
   - [Audacity](http://www.audacityteam.org "Audacity") - Audio software for multi-track recording and editing.
   - [Clementine](https://www.clementine-player.org "Clementine") - Modern music player and library organizer.
+  - [Flacon](http://flacon.github.io "Flacon") - Extracts individual tracks from one big audio file (entire album).
   - [LMMS](https://lmms.io "Linux Multi-Media Studio") - Produce music with your computer.
   - [MusicBrainz Picard](https://picard.musicbrainz.org "MusicBrainz Picard") - Music tagger that recovers music info from internet.
 - **Video**
