@@ -40,10 +40,12 @@ The software listed in the following cateogries represents a personal selection 
 ### Multimedia
 - **Audio**
   - [Audacity](http://www.audacityteam.org "Audacity") - Audio software for multi-track recording and editing.
+  - [Clementine](https://www.clementine-player.org "Clementine") - Modern music player and library organizer.
   - [LMMS](https://lmms.io "Linux Multi-Media Studio") - Produce music with your computer.
   - [MusicBrainz Picard](https://picard.musicbrainz.org "MusicBrainz Picard") - Music tagger that recovers music info from internet.
 - **Video**
   - [Kdenlive](https://kdenlive.org "Kdenlive") - KDE Non-Linear Video Editor.
+  - [MPV](https://mpv.io "MPV") - Cross-platform media player with GPU video decoding.
   - [OBS Studio](https://obsproject.com "OBS Studio") - Video recording and live streaming.
   - [VLC media player](https://www.videolan.org/vlc/index.html "VLC media player") - Multimedia player and framework that plays most multimedia files.
 ------------
