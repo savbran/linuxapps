@@ -71,7 +71,7 @@ The software listed in the following cateogries represents a personal selection 
 ### Server
 - [Apache HTTP Server](https://httpd.apache.org "Apache HTTP Server") - HTTP (Web) server.
 - [Discourse](https://www.discourse.org "Discourse") - Modern discussion platform: forum, long-form chat room, mailing list and more!
-- [Jitsi](https://jitsi.org "Jitsi") - Projects that allows you to easily build and deploy secure videoconferencing solutions.
+- [Jitsi](https://jitsi.org "Jitsi") - Build and deploy secure videoconferencing solutions.
 - [Nextcloud](https://nextcloud.com "Nextcloud") - Suite of client-server software for creating and using file hosting services.
 ------------
 ### System
