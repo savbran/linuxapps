@@ -78,6 +78,9 @@ The software listed in the following cateogries represents a personal selection 
 - [Nextcloud](https://nextcloud.com "Nextcloud") - Suite of client-server software for creating and using file hosting services.
 ------------
 ### System
+- **Antivirus**
+  - [ClamAV](https://www.clamav.net "ClamAV") - Antivirus engine for detecting trojans, viruses, malware & other malicious threats.
+  - [Rootkit Hunter](http://rkhunter.sourceforge.net "Rootkit Hunter") - A tool which checks computers running UNIX (clones) for the presence of rootkits and other unwanted tools.
 - [QDirStat](https://github.com/shundhammer/qdirstat "QDirStat") - Graphical application to show where your disk space has gone and to help you to clean it up.
 - [Wine](https://www.winehq.org "Wine") - A compatibility layer capable of running Windows applications on POSIX-compliant operating systems.
 - [Winetricks](https://github.com/Winetricks/winetricks "Winetricks") - An easy tool to work around problems in Wine.
