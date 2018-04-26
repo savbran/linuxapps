@@ -72,6 +72,8 @@ The software listed in the following cateogries represents a personal selection 
   - [WTP](https://marketplace.eclipse.org/content/eclipse-web-developer-tools-0 "Web Tools Platform") - Web Developer Tools. Includes HTML, CSS, JSON, JavaScript, XML.
 - [Editor.md](https://pandao.github.io/editor.md/en.html "Editor.md") - Online markdown editor.
 - [Visual Studio Code](https://code.visualstudio.com "Visual Studio Code") - A lightweight but powerful source code editor.
+- **Fonts for developers**
+  - [Fantasque Sans Mono](https://fontlibrary.org/en/font/fantasque-sans-mono "Fantasque Sans Mono") - A programming font, designed with functionality in mind.
 ------------
 ### School and Science
 - [GeoGebra](https://www.geogebra.org "GeoGebra") - Solve equations, graph functions, create constructions, analyze data, explore 3D math!
