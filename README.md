@@ -72,8 +72,6 @@ The software listed in the following cateogries represents a personal selection 
   - [WTP](https://marketplace.eclipse.org/content/eclipse-web-developer-tools-0 "Web Tools Platform") - Web Developer Tools. Includes HTML, CSS, JSON, JavaScript, XML.
 - [Editor.md](https://pandao.github.io/editor.md/en.html "Editor.md") - Online markdown editor.
 - [Visual Studio Code](https://code.visualstudio.com "Visual Studio Code") - A lightweight but powerful source code editor.
-- **Fonts for developers**
-  - [Fantasque Sans Mono](https://fontlibrary.org/en/font/fantasque-sans-mono "Fantasque Sans Mono") - A programming font, designed with functionality in mind.
 ------------
 ### School and Science
 - [GeoGebra](https://www.geogebra.org "GeoGebra") - Solve equations, graph functions, create constructions, analyze data, explore 3D math!
@@ -88,6 +86,13 @@ The software listed in the following cateogries represents a personal selection 
 - **Antivirus**
   - [ClamAV](https://www.clamav.net "ClamAV") - Antivirus engine for detecting trojans, viruses, malware & other malicious threats.
   - [Rootkit Hunter](http://rkhunter.sourceforge.net "Rootkit Hunter") - Checks computers running UNIX (clones) for the presence of rootkits and other unwanted tools.
+- **Customizations**
+  - **Fonts**
+    - [Fantasque Sans Mono](https://fontlibrary.org/en/font/fantasque-sans-mono "Fantasque Sans Mono") - A programming font, designed with functionality in mind.
+  - **Themes**
+    - [Arc theme](https://github.com/horst3180/arc-theme "Arc theme") - A clean, readable theme supporting desktop environments like GNOME, XFCE, MATE, etc. There's also a variant with greenish colors (Arc Maia) made by Manjaro Linux team.
+    - [Papirus icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme "Papirus icon theme") - SVG icon theme for Linux, based on Paper Icon Set, with more stuff.
+
 - [QDirStat](https://github.com/shundhammer/qdirstat "QDirStat") - Graphical application to show where your disk space has gone and to help you to clean it up.
 - [Wine](https://www.winehq.org "Wine") - A compatibility layer capable of running Windows applications on POSIX-compliant operating systems.
 - [Winetricks](https://github.com/Winetricks/winetricks "Winetricks") - An easy tool to work around problems in Wine.
