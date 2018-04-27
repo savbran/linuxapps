@@ -92,7 +92,6 @@ The software listed in the following cateogries represents a personal selection 
   - **Themes**
     - [Arc theme](https://github.com/horst3180/arc-theme "Arc theme") - A clean, readable theme supporting desktop environments like GNOME, XFCE, MATE, etc. There's also a variant with greenish colors (Arc Maia) made by Manjaro Linux team.
     - [Papirus icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme "Papirus icon theme") - SVG icon theme for Linux, based on Paper Icon Set, with more stuff.
-
 - [QDirStat](https://github.com/shundhammer/qdirstat "QDirStat") - Graphical application to show where your disk space has gone and to help you to clean it up.
 - [Wine](https://www.winehq.org "Wine") - A compatibility layer capable of running Windows applications on POSIX-compliant operating systems.
 - [Winetricks](https://github.com/Winetricks/winetricks "Winetricks") - An easy tool to work around problems in Wine.
