@@ -65,6 +65,7 @@ The software listed in the following cateogries represents a personal selection 
 ### Office
 - [LibreOffice](https://www.libreoffice.org "LibreOffice") - A powerful office suite.
 - [Master PDF Editor](https://code-industry.net/masterpdfeditor/ "Master PDF Editor") - Multifunctional PDF Editor.
+- [Scribus](https://www.scribus.net "Scribus") - Page layout and desktop publishing for Linux.
 ------------
 ### Programming
 - [Eclipse](https://www.eclipse.org "Eclipse") - Cross-plattform and cross-language IDE with powerful tools.
