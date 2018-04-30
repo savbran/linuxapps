@@ -39,9 +39,11 @@ The software listed in the following cateogries represents a personal selection 
   - [FreeCAD](https://freecadweb.org "FreeCAD") - A parametric 3D modeler made primarily to design real-life objects of any size.
 ------------
 ### Internet
+- [Firefox](https://www.mozilla.org/en-US/firefox "Firefox") - Web browser developed by Mozilla Foundation.
 - **Firefox plugins**
   - [Feedbro](https://addons.mozilla.org/it/firefox/addon/feedbroreader "Feedbro") - Tree-based RSS feed navigation with folders and drag & drop support.
   - [Video DownloadHelper](https://addons.mozilla.org/it/firefox/addon/video-downloadhelper "Video DownloadHelper") - Download and convert Web videos from hundreds of YouTube-like sites.
+- [qBittorrent](https://www.qbittorrent.org "qBittorrent") - Bittorrent client programmed in C++ / Qt that uses libtorrent and useful plugins.
 ------------
 ### Multimedia
 - **Audio**
