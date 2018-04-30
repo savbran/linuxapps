@@ -92,6 +92,7 @@ The software listed in the following cateogries represents a personal selection 
   - **Fonts**
     - [Fantasque Sans Mono](https://fontlibrary.org/en/font/fantasque-sans-mono "Fantasque Sans Mono") - A programming font, designed with functionality in mind.
   - **Themes**
+    - [Adapta-gtk-theme](https://github.com/adapta-project/adapta-gtk-theme "Adapta-gtk-theme") - Adaptive Gtk+ theme based on Material Design Guidelines.
     - [Arc theme](https://github.com/horst3180/arc-theme "Arc theme") - A clean, readable theme supporting desktop environments like GNOME, XFCE, MATE, etc. There's also a variant with greenish colors (Arc Maia) made by Manjaro Linux team.
     - [Papirus icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme "Papirus icon theme") - SVG icon theme for Linux, based on Paper Icon Set, with more stuff.
 - [QDirStat](https://github.com/shundhammer/qdirstat "QDirStat") - Graphical application to show where your disk space has gone and to help you to clean it up.
