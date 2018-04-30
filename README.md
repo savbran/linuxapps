@@ -37,6 +37,9 @@ The software listed in the following cateogries represents a personal selection 
 - **3D**
   - [Blender](https://www.blender.org "Blender") - 3D creation suite.
   - [FreeCAD](https://freecadweb.org "FreeCAD") - A parametric 3D modeler made primarily to design real-life objects of any size.
+- **Color tools**
+  - [Gcolor2](http://gcolor2.sourceforge.net "gcolor2") - GTK+2 color selector.
+  - [Gpick](http://www.gpick.org "Gpick") - Advanced color picker and palette editing tool.
 ------------
 ### Internet
 - [Firefox](https://www.mozilla.org/en-US/firefox "Firefox") - Web browser developed by Mozilla Foundation.
