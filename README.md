@@ -14,10 +14,10 @@ The software listed in the following cateogries represents a personal selection 
     - [jGameBase](https://jgamebase.sourceforge.io "jGameBase") - Retro-gaming emu­lator front­end and game data­base utility (for C64 and other emulators).
     - [VICE](http://vice-emu.sourceforge.net "the VersatIle Commodore Emulator") - Cross-platform emulator for old 8-bit computers: C64, C64DTV, C128, VIC20.
     - **Websites with C64 games**
-      - [edicola 8-bit by Sovox](http://specialprogramsipe.altervista.org/default.php "http://specialprogramsipe.altervista.org/default.php")
-      - [edicolac64.com](http://www.edicolac64.com/public/index.php "http://www.edicolac64.com/public/index.php")
       - [c64.com](http://www.c64.com "http://www.c64.com")
       - [gamebase64.com](http://www.gamebase64.com "http://www.gamebase64.com")
+      - [edicola 8-bit by Sovox](http://specialprogramsipe.altervista.org/default.php "http://specialprogramsipe.altervista.org/default.php")
+      - [edicolac64.com](http://www.edicolac64.com/public/index.php "http://www.edicolac64.com/public/index.php")
   - **DosBox**
     - [DBGL](http://members.quicknet.nl/blankendaalr/dbgl "DOSBox Game Launcher") - Multi-platform frontend for DOSBox.
     - [DOSBox](http://www.dosbox.com "DOSBox") - DOS-emulator that uses the SDL-library.
