@@ -6,6 +6,7 @@ The software listed in the following cateogries represents a personal selection 
 - [youtube-dl](https://rg3.github.io/youtube-dl "youtube-dl") - A command-line program to download videos from YouTube.com and a few more sites.
 ------------
 ### Games
+- [Dust Racing 2D](http://juzzlin.github.io/DustRacing2D/ "Dust Racing 2D") - Cross-platform 2D racing game (OpenGL).
 - [Frogatto](https://frogatto.com "Frogatto") - Action-adventure game, starring a certain quixotic frog.
 - [SuperTuxKart](https://supertuxkart.net "SuperTuxKart") - 3D arcade racer with a variety characters, tracks, and modes to play.
 - [Tales of Maj'Eyal](https://te4.org "Tales of Maj'Eyal") - Roguelike RPG fantasy game featuring turn-based combat and character building.
