@@ -92,6 +92,8 @@ The software listed in the following cateogries represents a personal selection 
 - **Antivirus**
   - [ClamAV](https://www.clamav.net "ClamAV") - Antivirus engine for detecting trojans, viruses, malware & other malicious threats.
   - [Rootkit Hunter](http://rkhunter.sourceforge.net "Rootkit Hunter") - Checks computers running UNIX (clones) for the presence of rootkits and other unwanted tools.
+- **Backup**
+  - [luckyBackup](http://luckybackup.sourceforge.net "luckyBackup") - App to backup and/or synchronize any directories with the power of rsync.
 - **Customizations**
   - **Fonts**
     - [Fantasque Sans Mono](https://fontlibrary.org/en/font/fantasque-sans-mono "Fantasque Sans Mono") - A programming font, designed with functionality in mind.
