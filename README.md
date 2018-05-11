@@ -1,10 +1,5 @@
 ## ~ Personal list of useful linux software ~
 The software listed in the following cateogries represents a personal selection of what is worth using in the log term. No 'exotic' or incomplete software should be reported.
-### Command line
-- [OpenSSH](https://www.openssh.com "OpenSSH") - The premier connectivity tool for remote login with the SSH protocol.
-- [screenfetch](https://github.com/KittyKatt/screenFetch "screenfetch") - Fetches system/theme information in terminal for Linux desktop screenshots.
-- [youtube-dl](https://rg3.github.io/youtube-dl "youtube-dl") - A command-line program to download videos from YouTube.com and a few more sites.
-------------
 ### Games
 - [Dust Racing 2D](http://juzzlin.github.io/DustRacing2D/ "Dust Racing 2D") - Cross-platform 2D racing game (OpenGL).
 - [Frogatto](https://frogatto.com "Frogatto") - Action-adventure game, starring a certain quixotic frog.
@@ -95,6 +90,10 @@ The software listed in the following cateogries represents a personal selection 
   - [Rootkit Hunter](http://rkhunter.sourceforge.net "Rootkit Hunter") - Checks computers running UNIX (clones) for the presence of rootkits and other unwanted tools.
 - **Backup**
   - [luckyBackup](http://luckybackup.sourceforge.net "luckyBackup") - App to backup and/or synchronize any directories with the power of rsync.
+- **Command line**
+  - [OpenSSH](https://www.openssh.com "OpenSSH") - The premier connectivity tool for remote login with the SSH protocol (ssh, sftp).
+  - [screenfetch](https://github.com/KittyKatt/screenFetch "screenfetch") - Fetches system/theme information in terminal for Linux desktop screenshots.
+  - [youtube-dl](https://rg3.github.io/youtube-dl "youtube-dl") - A command-line program to download videos from YouTube.com and a few more sites.
 - **Customizations**
   - **Fonts**
     - [Fantasque Sans Mono](https://fontlibrary.org/en/font/fantasque-sans-mono "Fantasque Sans Mono") - A programming font, designed with functionality in mind.
