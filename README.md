@@ -99,7 +99,7 @@ The software listed in the following cateogries represents a personal selection 
     - [Fantasque Sans Mono](https://fontlibrary.org/en/font/fantasque-sans-mono "Fantasque Sans Mono") - Programming font, designed with functionality in mind.
     - [Hack](https://sourcefoundry.org/hack "Hack") - A typeface designed for source code.
     - [Hermit](https://pcaro.es/p/hermit "Hermit") - Monospace font designed to be clear, pragmatic and very readable. For programming.
-    - [Soruce Code Pro](https://github.com/adobe-fonts/source-code-pro "Soruce Code Pro") - Monospaced font family for user interface and coding environments.
+    - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro "Source Code Pro") - Monospaced font family for user interface and coding environments.
   - **Themes**
     - [Adapta-gtk-theme](https://github.com/adapta-project/adapta-gtk-theme "Adapta-gtk-theme") - GTK Theme based on Material Design Guidelines.
     - [Arc theme](https://github.com/horst3180/arc-theme "Arc theme") - A clean, readable theme supporting desktop environments like GNOME, XFCE, MATE, etc. There's also a variant with greenish colors (Arc Maia) made by Manjaro Linux team.
