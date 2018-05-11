@@ -97,6 +97,7 @@ The software listed in the following cateogries represents a personal selection 
 - **Customizations**
   - **Fonts**
     - [Fantasque Sans Mono](https://fontlibrary.org/en/font/fantasque-sans-mono "Fantasque Sans Mono") - Programming font, designed with functionality in mind.
+    - [Hack](https://sourcefoundry.org/hack "Hack") - A typeface designed for source code.
     - [Hermit](https://pcaro.es/p/hermit "Hermit") - Monospace font designed to be clear, pragmatic and very readable. For programming.
   - **Themes**
     - [Adapta-gtk-theme](https://github.com/adapta-project/adapta-gtk-theme "Adapta-gtk-theme") - GTK Theme based on Material Design Guidelines.
