@@ -96,7 +96,8 @@ The software listed in the following cateogries represents a personal selection 
   - [youtube-dl](https://rg3.github.io/youtube-dl "youtube-dl") - A command-line program to download videos from YouTube.com and a few more sites.
 - **Customizations**
   - **Fonts**
-    - [Fantasque Sans Mono](https://fontlibrary.org/en/font/fantasque-sans-mono "Fantasque Sans Mono") - A programming font, designed with functionality in mind.
+    - [Fantasque Sans Mono](https://fontlibrary.org/en/font/fantasque-sans-mono "Fantasque Sans Mono") - Programming font, designed with functionality in mind.
+    - [Hermit](https://pcaro.es/p/hermit "Hermit") - Monospace font designed to be clear, pragmatic and very readable. For programming.
   - **Themes**
     - [Adapta-gtk-theme](https://github.com/adapta-project/adapta-gtk-theme "Adapta-gtk-theme") - GTK Theme based on Material Design Guidelines.
     - [Arc theme](https://github.com/horst3180/arc-theme "Arc theme") - A clean, readable theme supporting desktop environments like GNOME, XFCE, MATE, etc. There's also a variant with greenish colors (Arc Maia) made by Manjaro Linux team.
