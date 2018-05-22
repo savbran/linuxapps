@@ -1,5 +1,5 @@
 ## ~ Personal list of useful linux software ~
-What is worth using in the log term.
+What is worth using in the long term on my linux pc :)
 ### Games
 - [Dust Racing 2D](http://juzzlin.github.io/DustRacing2D/ "Dust Racing 2D") - Cross-platform 2D racing game (OpenGL).
 - [Frogatto](https://frogatto.com "Frogatto") - Action-adventure game, starring a certain quixotic frog.
