@@ -563,5 +563,3 @@ if __name__ == '__main__':
                 print "error -- the file: "
                 print str(file)
                 print "was not correctly handled!"
-
-        db_updater.remove_all_jsons_from_local_folder()
