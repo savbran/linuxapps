@@ -1,6 +1,10 @@
+
 ## ~ Personal list of useful linux software ~
+
 What is worth using in the long term on a linux pc...
+
 ### Games
+
 - [Dust Racing 2D](http://juzzlin.github.io/DustRacing2D/ "Dust Racing 2D") - Cross-platform 2D racing game (OpenGL).
 - [Frogatto](https://frogatto.com "Frogatto") - Action-adventure game, starring a certain quixotic frog.
 - [SuperTuxKart](https://supertuxkart.net "SuperTuxKart") - 3D arcade racer with a variety characters, tracks, and modes to play.
@@ -20,8 +24,11 @@ What is worth using in the long term on a linux pc...
   - M.A.M.E.
     - [QMC2](http://qmc2.batcom-it.net "QMC2") - Qt based multi-platform GUI front end for MAME and SDLMAME.
     - [SDLMAME](http://sdlmame.wallyweek.org "SDLMAME") - Port of the popular [MAME™](http://mamedev.org "Multiple Arcade Machine Emulator™") emulator to the SDL library.
+
 ------------
+
 ### Graphics
+
 - 2D
   - [Alchemy](http://al.chemy.org "Alchemy") - Explore and experiment with alternative ways of drawing.
   - [Aseprite](https://www.aseprite.org "Aseprite") - Animated sprite editor & pixel art tool.
@@ -36,15 +43,21 @@ What is worth using in the long term on a linux pc...
 - Color tools
   - [Gcolor2](http://gcolor2.sourceforge.net "Gcolor2") - GTK+2 color selector.
   - [Gpick](http://www.gpick.org "Gpick") - Advanced color picker and palette editing tool.
+
 ------------
+
 ### Internet
+
 - [Firefox](https://www.mozilla.org/en-US/firefox "Firefox") - Web browser developed by Mozilla Foundation.
   Plugins:
   - [Feedbro](https://addons.mozilla.org/it/firefox/addon/feedbroreader "Feedbro") - Tree-based RSS feed navigation with folders and drag & drop support.
   - [Video DownloadHelper](https://addons.mozilla.org/it/firefox/addon/video-downloadhelper "Video DownloadHelper") - Download and convert Web videos from hundreds of YouTube-like sites.
 - [qBittorrent](https://www.qbittorrent.org "qBittorrent") - Bittorrent client programmed in C++ / Qt that uses libtorrent and useful plugins.
+
 ------------
+
 ### Multimedia
+
 - Audio
   - [Audacity](http://www.audacityteam.org "Audacity") - Audio software for multi-track recording and editing.
   - [Clementine](https://www.clementine-player.org "Clementine") - Modern music player and library organizer.
@@ -57,13 +70,19 @@ What is worth using in the long term on a linux pc...
   - [MPV](https://mpv.io "MPV") - Cross-platform media player with GPU video decoding.
   - [OBS Studio](https://obsproject.com "OBS Studio") - Video recording and live streaming.
   - [VLC media player](https://www.videolan.org/vlc/index.html "VLC media player") - Multimedia player and framework that plays most multimedia files.
+
 ------------
+
 ### Office
+
 - [LibreOffice](https://www.libreoffice.org "LibreOffice") - A powerful office suite.
 - [Master PDF Editor](https://code-industry.net/masterpdfeditor/ "Master PDF Editor") - Multifunctional PDF Editor.
 - [Scribus](https://www.scribus.net "Scribus") - Page layout and desktop publishing for Linux.
+
 ------------
+
 ### Programming
+
 - **[Eclipse](https://www.eclipse.org "Eclipse")** - Cross-plattform and cross-language IDE with powerful tools.
   Plugins:
   - [DevStyle](https://www.genuitec.com/products/devstyle "DevStyle") - Modernizing tools for Eclipse (theming, breadcrumb navigation, etc).
@@ -79,17 +98,25 @@ What is worth using in the long term on a linux pc...
   - [One Dark Pro](https://binaryify.github.io/OneDark-Pro/#/ "One Dark Pro") - Atom's iconic One Dark theme for Visual Studio Code
 
 ------------
+
 ### School and Science
+
 - [GeoGebra](https://www.geogebra.org "GeoGebra") - Solve equations, graph functions, create constructions, analyze data, explore 3D math!
+
 ------------
+
 ### Server
+
 - [Apache HTTP Server](https://httpd.apache.org "Apache HTTP Server") - HTTP (Web) server.
 - [Discourse](https://www.discourse.org "Discourse") - Modern discussion platform: forum, long-form chat room, mailing list and more!
 - [Jitsi](https://jitsi.org "Jitsi") - Build and deploy secure videoconferencing solutions.
 - [Nextcloud](https://nextcloud.com "Nextcloud") - Suite of client-server software for creating and using file hosting services.
 - [OpenProject](https://www.openproject.org "OpenProject") - Open source project management software. Powerful, easy-to-use, free.
+
 ------------
+
 ### System
+
 - Antivirus
   - [ClamAV](https://www.clamav.net "ClamAV") - Antivirus engine for detecting trojans, viruses, malware & other malicious threats.
   - [Rootkit Hunter](http://rkhunter.sourceforge.net "Rootkit Hunter") - Checks computers running UNIX (clones) for the presence of rootkits and other unwanted tools.
