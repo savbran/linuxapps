@@ -72,7 +72,8 @@ What is worth using in the long term on a linux pc...
   - [Subclipse](https://marketplace.eclipse.org/content/subclipse "Subclipse") - Support for Subversion within the Eclipse IDE.
   - [STS](https://marketplace.eclipse.org/content/spring-tools-aka-spring-ide-and-spring-tool-suite "Spring Tool Suite") - Environment for building Spring-powered enterprise applications.
   - [WTP](https://marketplace.eclipse.org/content/eclipse-web-developer-tools-0 "Web Tools Platform") - Web Developer Tools. Includes HTML, CSS, JSON, JavaScript, XML.
-- **[Editor.md](https://pandao.github.io/editor.md/en.html "Editor.md")** - Online markdown editor.
+- [Editor.md](https://pandao.github.io/editor.md/en.html "pandao.github.io/editor.md/en.html") - Online Markdown editor.
+- [JSON Editor Online](https://jsoneditoronline.org "jsoneditoronline.org") - Online editor to view, edit, and format JSON.
 - **[Visual Studio Code](https://code.visualstudio.com "Visual Studio Code")** - A lightweight but powerful source code editor.
   Plugins:
   - [One Dark Pro](https://binaryify.github.io/OneDark-Pro/#/ "One Dark Pro") - Atom's iconic One Dark theme for Visual Studio Code
