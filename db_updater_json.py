@@ -13,10 +13,12 @@ import sys
 
 # Build and add EPG framework path to sys.path
 currentDir = os.getcwd()
-for i in range(2): currentDir = os.path.split(currentDir)[0]
+for i in range(2):
+    currentDir = os.path.split(currentDir)[0]
 sys.path.append(currentDir + "\\_EPG_Framework")
 sys.path.append(os.path.join(currentDir, "_EPG_Framework\\_Framework\\_Lib"))
-sys.path.append(os.path.join(currentDir, "_EPG_Framework\\_Framework\\_Lib\\mysql"))
+sys.path.append(
+    os.path.join(currentDir, "_EPG_Framework\\_Framework\\_Lib\\mysql"))
 
 # Import EPG framework libraries
 # from _Framework.DB import InfrastructureSetup as IS
@@ -47,53 +49,56 @@ class DBUpdaterJson:
                 # Set data structures used to handle data:
                 # - to save data coming from json files
                 # - to create insertion and updating database queries
-                self.query_data = {'as_id': 0,
-                                   'end_time': None,
-                                   'facility_id': 0,
-                                   'img_folder': None,
-                                   'local_run': 0,
-                                   'platform_id': None,
-                                   'res_url': None,
-                                   'result': 0,
-                                   'server_name': None,
-                                   'slot_label': None,
-                                   'slot_number': None,
-                                   'start_time': None,
-                                   'step_number': 0,
-                                   'test_name': None,
-                                   'tester': None
-                                   }
+                self.query_data = {
+                    'as_id': 0,
+                    'end_time': None,
+                    'facility_id': 0,
+                    'img_folder': None,
+                    'local_run': 0,
+                    'platform_id': None,
+                    'res_url': None,
+                    'result': 0,
+                    'server_name': None,
+                    'slot_label': None,
+                    'slot_number': None,
+                    'start_time': None,
+                    'step_number': 0,
+                    'test_name': None,
+                    'tester': None
+                }
 
-                self.query_data_pf = {'as_test_run_id': 0,
-                                      'avg': 0.0,
-                                      'avg_g': 0.0,
-                                      'avg_r': 0.0,
-                                      'avg_y': 0.0,
-                                      'deviation': 0.0,
-                                      'facility_id': 0,
-                                      'fus_dev': 0.0,
-                                      'fusion_avg': 0.0,
-                                      'leg_avg': 0.0,
-                                      'max': 0.0,
-                                      'min': 0.0,
-                                      'platform_id': None,
-                                      'run_date': None,
-                                      'server_id': None,
-                                      'slot_id': 0,
-                                      'std_dev': 0.0,
-                                      'std_dst': 0.0,
-                                      'test_name': None,
-                                      'test_status': None,
-                                      'threshold_1': 0.0,
-                                      'threshold_2': 0.0,
-                                      'upper_limit': 0.0
-                                      }
+                self.query_data_pf = {
+                    'as_test_run_id': 0,
+                    'avg': 0.0,
+                    'avg_g': 0.0,
+                    'avg_r': 0.0,
+                    'avg_y': 0.0,
+                    'deviation': 0.0,
+                    'facility_id': 0,
+                    'fus_dev': 0.0,
+                    'fusion_avg': 0.0,
+                    'leg_avg': 0.0,
+                    'max': 0.0,
+                    'min': 0.0,
+                    'platform_id': None,
+                    'run_date': None,
+                    'server_id': None,
+                    'slot_id': 0,
+                    'std_dev': 0.0,
+                    'std_dst': 0.0,
+                    'test_name': None,
+                    'test_status': None,
+                    'threshold_1': 0.0,
+                    'threshold_2': 0.0,
+                    'upper_limit': 0.0
+                }
 
                 # Connect to test DB
-                self.db_connection = MySQLdb.connect(host=tenv.db_infr_host,
-                                                     user=tenv.db_infr_user,
-                                                     passwd=tenv.db_infr_passwd,
-                                                     db='testdb')
+                self.db_connection = MySQLdb.connect(
+                    host=tenv.db_infr_host,
+                    user=tenv.db_infr_user,
+                    passwd=tenv.db_infr_passwd,
+                    db='testdb')
 
                 print "DBUpdaterJson: testdb connection etabilished"
 
@@ -145,7 +150,8 @@ class DBUpdaterJson:
         """
         # Reset query_daya
         for k in self.query_data:
-            if (type(self.query_data[k]) is int) or (type(self.query_data[k]) is bool):
+            if (type(self.query_data[k]) is int) or (type(self.query_data[k])
+                                                     is bool):
                 self.query_data[k] = 0
             elif type(self.query_data[k]) is float:
                 self.query_data[k] = 0.0
@@ -154,7 +160,8 @@ class DBUpdaterJson:
 
         # Reset query_data_pf
         for k in self.query_data_pf:
-            if (type(self.query_data_pf[k]) is int) or (type(self.query_data_pf[k]) is bool):
+            if (type(self.query_data_pf[k]) is int) or (type(
+                    self.query_data_pf[k]) is bool):
                 self.query_data_pf[k] = 0
             elif type(self.query_data_pf[k]) is float:
                 self.query_data_pf[k] = 0.0
@@ -191,9 +198,11 @@ class DBUpdaterJson:
             search_query += 'AND slot_number=%(slot_number)s '
             search_query += 'AND start_time=%(start_time)s;'
 
-            query_fields = {'server_name': deserialized_data['server_name'],
-                            'slot_number': deserialized_data['slot_number'],
-                            'start_time': deserialized_data['start_time']}
+            query_fields = {
+                'server_name': deserialized_data['server_name'],
+                'slot_number': deserialized_data['slot_number'],
+                'start_time': deserialized_data['start_time']
+            }
 
             # print "data to be used for the db query: "
             # print " -server_name: " + str(query_fields['server_name'])
@@ -310,7 +319,8 @@ class DBUpdaterJson:
                 just_pf_names = deserialized_data['performanceData'].keys()
                 for name in query_field_names_pf:
                     if name in just_pf_names:
-                        self.query_data_pf[name] = deserialized_data['performanceData'][name]
+                        self.query_data_pf[name] = deserialized_data[
+                            'performanceData'][name]
 
                 print "query_fields: "
                 print str(self.query_data_pf)
@@ -402,7 +412,8 @@ class DBUpdaterJson:
                 just_pf_names = deserialized_data['performanceData'].keys()
                 for name in query_field_names_pf:
                     if name in just_pf_names:
-                        self.query_data_pf[name] = deserialized_data['performanceData'][name]
+                        self.query_data_pf[name] = deserialized_data[
+                            'performanceData'][name]
 
                 # Build query for performance data
                 self._set_data_relations()
@@ -444,7 +455,8 @@ class DBUpdaterJson:
             ftp.cwd(self.teleplan_jsonfiles_path)
 
             for filename in fileListToOpen:
-                with open(self.src_server_jsonfiles_path + "\\" + filename, 'rb') as fd:
+                with open(self.src_server_jsonfiles_path + "\\" + filename,
+                          'rb') as fd:
                     ftp.storbinary('STOR %s' % filename, fd)
                 os.remove(self.src_server_jsonfiles_path + "\\" + filename)
             ftp.quit()
@@ -476,7 +488,8 @@ class DBUpdaterJson:
 
             for dlFile in list_files:
                 print dlFile
-                with open(self.tgt_server_jsonfiles_path + "\\" + dlFile, "wb") as localFile:
+                with open(self.tgt_server_jsonfiles_path + "\\" + dlFile,
+                          "wb") as localFile:
                     ftp.retrbinary("RETR " + dlFile, localFile.write)
                 ftp.delete(dlFile)
                 # os.remove(self.tgt_server_jsonfiles_path + dlFile)
@@ -487,13 +500,16 @@ class DBUpdaterJson:
             # Get the list of file paths contained in local log folder
             file_list = os.listdir(self.tgt_server_jsonfiles_path)
             self.json_file_paths = []
-            self.json_file_paths = [self.tgt_server_jsonfiles_path +
-                                    os.sep + filename for filename in file_list]
+            self.json_file_paths = [
+                self.tgt_server_jsonfiles_path + os.sep + filename
+                for filename in file_list
+            ]
 
             # print self.json_file_paths
 
         except Exception, e:
-            print("An error occoured during downloading of json files..." + str(e))
+            print("An error occoured during downloading of json files..." +
+                  str(e))
             res = False
 
         return res
@@ -526,6 +542,7 @@ if __name__ == '__main__':
         # For each json file contained in log folder
         if len(db_updater.json_file_paths) < 1:
             print "Info: Json files no found, DB not updated."
+            return
 
         for file in db_updater.json_file_paths:
 
