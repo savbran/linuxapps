@@ -102,6 +102,7 @@ What is worth using in the long term on a linux pc...
 ### School and Science
 
 - [GeoGebra](https://www.geogebra.org "GeoGebra") - Solve equations, graph functions, create constructions, analyze data, explore 3D math!
+- [Qalculate!](http://qalculate.github.io "Qalculate!") - The ultimate desktop calculator.
 
 ------------
 
