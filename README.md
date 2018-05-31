@@ -94,8 +94,13 @@ What is worth using in the long term on a linux pc...
 - [Editor.md](https://pandao.github.io/editor.md/en.html "pandao.github.io/editor.md/en.html") - Online Markdown editor.
 - [JSON Editor Online](https://jsoneditoronline.org "jsoneditoronline.org") - Online editor to view, edit, and format JSON.
 - **[Visual Studio Code](https://code.visualstudio.com "Visual Studio Code")** - A lightweight but powerful source code editor.
-  Plugins:
-  - [One Dark Pro](https://binaryify.github.io/OneDark-Pro/#/ "One Dark Pro") - Atom's iconic One Dark theme for Visual Studio Code
+ Plugins:
+  - [Code Outline](https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline "Code Outline") - A code outline tree provider for VSCode.
+  - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens "GitLens — Git supercharged") - Supercharge the Git capabilities built into Visual Studio Code.
+  - [Insert Numbers](https://marketplace.visualstudio.com/items?itemName=Asuka.insertnumbers "Insert Numbers") - Insert increasing numbers.
+  - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced "Markdown Preview Enhanced") - Markdown Preview Enhanced ported to vscode.
+  - [One Dark Pro](https://binaryify.github.io/OneDark-Pro/#/ "One Dark Pro") - Atom's iconic One Dark theme for Visual Studio Code.
+  - [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff "Partial Diff") - Compare (diff) text selections within a file, across files, or to the clipboard.
 
 ------------
 
