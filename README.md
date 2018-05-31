@@ -81,29 +81,6 @@ What is worth using in the long term on a linux pc...
 
 ------------
 
-### Programming
-
-- **[Eclipse](https://www.eclipse.org "Eclipse")** - Cross-plattform and cross-language IDE with powerful tools.
-  Plugins:
-  - [DevStyle](https://www.genuitec.com/products/devstyle "DevStyle") - Modernizing tools for Eclipse (theming, breadcrumb navigation, etc).
-  - [EGit](https://marketplace.eclipse.org/content/egit-git-integration-eclipse "EGit") - Git integration for Eclipse.
-  - [PyDev](http://www.pydev.org "PyDev") - Python IDE for Eclipse.
-  - [Subclipse](https://marketplace.eclipse.org/content/subclipse "Subclipse") - Support for Subversion within the Eclipse IDE.
-  - [STS](https://marketplace.eclipse.org/content/spring-tools-aka-spring-ide-and-spring-tool-suite "Spring Tool Suite") - Environment for building Spring-powered enterprise applications.
-  - [WTP](https://marketplace.eclipse.org/content/eclipse-web-developer-tools-0 "Web Tools Platform") - Web Developer Tools. Includes HTML, CSS, JSON, JavaScript, XML.
-- [Editor.md](https://pandao.github.io/editor.md/en.html "pandao.github.io/editor.md/en.html") - Online Markdown editor.
-- [JSON Editor Online](https://jsoneditoronline.org "jsoneditoronline.org") - Online editor to view, edit, and format JSON.
-- **[Visual Studio Code](https://code.visualstudio.com "Visual Studio Code")** - A lightweight but powerful source code editor.
- Plugins:
-  - [Code Outline](https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline "Code Outline") - A code outline tree provider for VSCode.
-  - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens "GitLens — Git supercharged") - Supercharge the Git capabilities built into Visual Studio Code.
-  - [Insert Numbers](https://marketplace.visualstudio.com/items?itemName=Asuka.insertnumbers "Insert Numbers") - Insert increasing numbers.
-  - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced "Markdown Preview Enhanced") - Markdown Preview Enhanced ported to vscode.
-  - [One Dark Pro](https://binaryify.github.io/OneDark-Pro/#/ "One Dark Pro") - Atom's iconic One Dark theme for Visual Studio Code.
-  - [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff "Partial Diff") - Compare (diff) text selections within a file, across files, or to the clipboard.
-
-------------
-
 ### School and Science
 
 - Astronomy
@@ -115,13 +92,36 @@ What is worth using in the long term on a linux pc...
 
 ------------
 
+### Software development
+
+- **[Eclipse](https://www.eclipse.org "Eclipse")** - Cross-plattform and cross-language IDE with powerful tools.
+  Plugins:
+  - [DevStyle](https://www.genuitec.com/products/devstyle "DevStyle") - Modernizing tools for Eclipse (theming, breadcrumb navigation, etc).
+  - [EGit](https://marketplace.eclipse.org/content/egit-git-integration-eclipse "EGit") - Git integration for Eclipse.
+  - [PyDev](http://www.pydev.org "PyDev") - Python IDE for Eclipse.
+  - [Subclipse](https://marketplace.eclipse.org/content/subclipse "Subclipse") - Support for Subversion within the Eclipse IDE.
+  - [STS](https://marketplace.eclipse.org/content/spring-tools-aka-spring-ide-and-spring-tool-suite "Spring Tool Suite") - Environment for building Spring-powered enterprise applications.
+  - [WTP](https://marketplace.eclipse.org/content/eclipse-web-developer-tools-0 "Web Tools Platform") - Web Developer Tools. Includes HTML, CSS, JSON, JavaScript, XML.
+- [Editor.md](https://pandao.github.io/editor.md/en.html "pandao.github.io/editor.md/en.html") - Online Markdown editor.
+- [JSON Editor Online](https://jsoneditoronline.org "jsoneditoronline.org") - Online editor to view, edit, and format JSON.
+- [OpenProject](https://www.openproject.org "OpenProject") - Open source project management software. Powerful, easy-to-use, free.
+- **[Visual Studio Code](https://code.visualstudio.com "Visual Studio Code")** - A lightweight but powerful source code editor.
+ Plugins:
+  - [Code Outline](https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline "Code Outline") - A code outline tree provider for VSCode.
+  - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens "GitLens — Git supercharged") - Supercharge the Git capabilities built into Visual Studio Code.
+  - [Insert Numbers](https://marketplace.visualstudio.com/items?itemName=Asuka.insertnumbers "Insert Numbers") - Insert increasing numbers.
+  - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced "Markdown Preview Enhanced") - Markdown Preview Enhanced ported to vscode.
+  - [One Dark Pro](https://binaryify.github.io/OneDark-Pro/#/ "One Dark Pro") - Atom's iconic One Dark theme for Visual Studio Code.
+  - [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff "Partial Diff") - Compare (diff) text selections within a file, across files, or to the clipboard.
+
+------------
+
 ### Server
 
 - [Apache HTTP Server](https://httpd.apache.org "Apache HTTP Server") - HTTP (Web) server.
 - [Discourse](https://www.discourse.org "Discourse") - Modern discussion platform: forum, long-form chat room, mailing list and more!
 - [Jitsi](https://jitsi.org "Jitsi") - Build and deploy secure videoconferencing solutions.
 - [Nextcloud](https://nextcloud.com "Nextcloud") - Suite of client-server software for creating and using file hosting services.
-- [OpenProject](https://www.openproject.org "OpenProject") - Open source project management software. Powerful, easy-to-use, free.
 
 ------------
 
