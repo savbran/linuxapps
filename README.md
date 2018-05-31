@@ -101,10 +101,12 @@ What is worth using in the long term on a linux pc...
 
 ### School and Science
 
-- [GeoGebra](https://www.geogebra.org "geogebra.org") - Solve equations, graph functions, create constructions, analyze data, explore 3D math!
-- [Celestia](https://celestia.space "celestia.space") - Real-time 3D visualization of space.
-- [Qalculate!](http://qalculate.github.io "qalculate.github.io") - The ultimate desktop calculator.
-- [Stellarium](http://stellarium.org "stellarium.org") - Solve equations, graph functions, create constructions, analyze data, explore 3D math!
+- Astronomy
+  - [Celestia](https://celestia.space "celestia.space") - Real-time 3D visualization of space.
+  - [Stellarium](http://stellarium.org "stellarium.org") - Solve equations, graph functions, create constructions, analyze data, explore 3D math!
+- Math
+  - [GeoGebra](https://www.geogebra.org "geogebra.org") - Solve equations, graph functions, create constructions, analyze data, explore 3D math!
+  - [Qalculate!](http://qalculate.github.io "qalculate.github.io") - The ultimate desktop calculator.
 
 ------------
 
