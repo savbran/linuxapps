@@ -127,11 +127,11 @@ What is worth using in the long term on a linux pc...
 
 ### System
 
-- Arch Linux related
-  - [yay](https://github.com/Jguer/yay "https://github.com/Jguer/yay") - An AUR Helper written in Go.
 - Antivirus
   - [ClamAV](https://www.clamav.net "ClamAV") - Antivirus engine for detecting trojans, viruses, malware & other malicious threats.
   - [Rootkit Hunter](http://rkhunter.sourceforge.net "Rootkit Hunter") - Checks computers running UNIX (clones) for the presence of rootkits and other unwanted tools.
+- Arch Linux related
+  - [yay](https://github.com/Jguer/yay "https://github.com/Jguer/yay") - An AUR Helper written in Go.
 - Backup
   - [luckyBackup](http://luckybackup.sourceforge.net "luckyBackup") - App to backup and/or synchronize any directories with the power of rsync.
 - Command line
