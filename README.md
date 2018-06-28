@@ -5,10 +5,10 @@ What is worth using in the long term on a linux pc...
 
 ### Games
 
-- [Dust Racing 2D](http://juzzlin.github.io/DustRacing2D/ "Dust Racing 2D") - Cross-platform 2D racing game (OpenGL).
-- [Frogatto](https://frogatto.com "Frogatto") - Action-adventure game, starring a certain quixotic frog.
-- [SuperTuxKart](https://supertuxkart.net "SuperTuxKart") - 3D arcade racer with a variety characters, tracks, and modes to play.
-- [Tales of Maj'Eyal](https://te4.org "Tales of Maj'Eyal") - Roguelike RPG fantasy game featuring turn-based combat and character building.
+- [Dust Racing 2D](http://juzzlin.github.io/DustRacing2D "http://juzzlin.github.io/DustRacing2D") - Cross-platform 2D racing game (OpenGL).
+- [Frogatto](https://frogatto.com "https://frogatto.com") - Action-adventure game, starring a certain quixotic frog.
+- [SuperTuxKart](https://supertuxkart.net "https://supertuxkart.net") - 3D arcade racer with a variety characters, tracks, and modes to play.
+- [Tales of Maj'Eyal](https://te4.org "https://te4.org") - Roguelike RPG fantasy game featuring turn-based combat and character building.
 - [Tanks of Freedom](http://tof.p1x.in "http://tof.p1x.in") - Indie Turn Based Strategy in Isometric Pixel Art.
 
 - **Emulators, GUI front-ends**
@@ -22,10 +22,10 @@ What is worth using in the long term on a linux pc...
       - [edicolac64.com](http://www.edicolac64.com/public/index.php "http://www.edicolac64.com/public/index.php")
   - DosBox
     - [DBGL](http://members.quicknet.nl/blankendaalr/dbgl "DOSBox Game Launcher") - Multi-platform frontend for DOSBox.
-    - [DOSBox](http://www.dosbox.com "DOSBox") - DOS-emulator that uses the SDL-library.
+    - [DOSBox](http://www.dosbox.com "http://www.dosbox.com") - DOS-emulator that uses the SDL-library.
   - M.A.M.E.
-    - [QMC2](http://qmc2.batcom-it.net "QMC2") - Qt based multi-platform GUI front end for MAME and SDLMAME.
-    - [SDLMAME](http://sdlmame.wallyweek.org "SDLMAME") - Port of the popular [MAME™](http://mamedev.org "Multiple Arcade Machine Emulator™") emulator to the SDL library.
+    - [QMC2](http://qmc2.batcom-it.net "http://qmc2.batcom-it.net") - Qt based multi-platform GUI front end for MAME and SDLMAME.
+    - [SDLMAME](http://sdlmame.wallyweek.org "http://sdlmame.wallyweek.org") - Port of the popular [MAME™](http://mamedev.org "Multiple Arcade Machine Emulator™") emulator to the SDL library.
 
 ------------
 
