@@ -9,6 +9,8 @@ What is worth using in the long term on a linux pc...
 - [Frogatto](https://frogatto.com "Frogatto") - Action-adventure game, starring a certain quixotic frog.
 - [SuperTuxKart](https://supertuxkart.net "SuperTuxKart") - 3D arcade racer with a variety characters, tracks, and modes to play.
 - [Tales of Maj'Eyal](https://te4.org "Tales of Maj'Eyal") - Roguelike RPG fantasy game featuring turn-based combat and character building.
+- [Tanks of Freedom](http://tof.p1x.in "http://tof.p1x.in") - Indie Turn Based Strategy in Isometric Pixel Art.
+
 - **Emulators, GUI front-ends**
   - C64
     - [jGameBase](https://jgamebase.sourceforge.io "jGameBase") - Retro-gaming emu­lator front­end and game data­base utility (for C64 and other emulators).
