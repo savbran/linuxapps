@@ -1,9 +1,9 @@
 
-## ~ Personal list of useful linux software ~
+# ~ Personal list of useful linux software ~
 
 What is worth using in the long term on a linux pc...
 
-### Games
+## Games
 
 - [Dust Racing 2D](http://juzzlin.github.io/DustRacing2D "http://juzzlin.github.io/DustRacing2D") - Cross-platform 2D racing game (OpenGL).
 - [Frogatto](https://frogatto.com "https://frogatto.com") - Action-adventure game, starring a certain quixotic frog.
@@ -29,7 +29,7 @@ What is worth using in the long term on a linux pc...
 
 ------------
 
-### Graphics
+## Graphics
 
 - 2D
   - [Alchemy](http://al.chemy.org "Alchemy") - Explore and experiment with alternative ways of drawing.
@@ -48,7 +48,7 @@ What is worth using in the long term on a linux pc...
 
 ------------
 
-### Internet
+## Internet
 
 - [Firefox](https://www.mozilla.org/en-US/firefox "Firefox") - Web browser developed by Mozilla Foundation.
   Plugins:
@@ -58,7 +58,7 @@ What is worth using in the long term on a linux pc...
 
 ------------
 
-### Multimedia
+## Multimedia
 
 - Audio
   - [Audacity](http://www.audacityteam.org "Audacity") - Audio software for multi-track recording and editing.
@@ -75,7 +75,7 @@ What is worth using in the long term on a linux pc...
 
 ------------
 
-### Office
+## Office
 
 - [LibreOffice](https://www.libreoffice.org "LibreOffice") - A powerful office suite.
 - [Master PDF Editor](https://code-industry.net/masterpdfeditor/ "Master PDF Editor") - Multifunctional PDF Editor.
@@ -83,7 +83,7 @@ What is worth using in the long term on a linux pc...
 
 ------------
 
-### School and Science
+## School and Science
 
 - Astronomy
   - [Celestia](https://celestia.space "celestia.space") - Real-time 3D visualization of space.
@@ -94,7 +94,7 @@ What is worth using in the long term on a linux pc...
 
 ------------
 
-### Software development
+## Software development
 
 - **[Eclipse](https://www.eclipse.org "Eclipse")** - Cross-plattform and cross-language IDE with powerful tools.
   Plugins:
@@ -118,7 +118,7 @@ What is worth using in the long term on a linux pc...
 
 ------------
 
-### Server
+## Server
 
 - [Apache HTTP Server](https://httpd.apache.org "Apache HTTP Server") - HTTP (Web) server.
 - [Discourse](https://www.discourse.org "Discourse") - Modern discussion platform: forum, long-form chat room, mailing list and more!
@@ -127,7 +127,7 @@ What is worth using in the long term on a linux pc...
 
 ------------
 
-### System
+## System
 
 - Antivirus
   - [ClamAV](https://www.clamav.net "ClamAV") - Antivirus engine for detecting trojans, viruses, malware & other malicious threats.
