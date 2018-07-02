@@ -27,8 +27,6 @@ What is worth using in the long term on a linux pc...
     - [QMC2](http://qmc2.batcom-it.net "http://qmc2.batcom-it.net") - Qt based multi-platform GUI front end for MAME and SDLMAME.
     - [SDLMAME](http://sdlmame.wallyweek.org "http://sdlmame.wallyweek.org") - Port of the popular [MAME™](http://mamedev.org "Multiple Arcade Machine Emulator™") emulator to the SDL library.
 
-------------
-
 ## Graphics
 
 - 2D
@@ -46,8 +44,6 @@ What is worth using in the long term on a linux pc...
   - [Gcolor2](http://gcolor2.sourceforge.net "Gcolor2") - GTK+2 color selector.
   - [Gpick](http://www.gpick.org "Gpick") - Advanced color picker and palette editing tool.
 
-------------
-
 ## Internet
 
 - [Firefox](https://www.mozilla.org/en-US/firefox "Firefox") - Web browser developed by Mozilla Foundation.
@@ -55,8 +51,6 @@ What is worth using in the long term on a linux pc...
   - [Feedbro](https://addons.mozilla.org/it/firefox/addon/feedbroreader "Feedbro") - Tree-based RSS feed navigation with folders and drag & drop support.
   - [Video DownloadHelper](https://addons.mozilla.org/it/firefox/addon/video-downloadhelper "Video DownloadHelper") - Download and convert Web videos from hundreds of YouTube-like sites.
 - [qBittorrent](https://www.qbittorrent.org "qBittorrent") - Bittorrent client programmed in C++ / Qt that uses libtorrent and useful plugins.
-
-------------
 
 ## Multimedia
 
@@ -73,15 +67,11 @@ What is worth using in the long term on a linux pc...
   - [OBS Studio](https://obsproject.com "OBS Studio") - Video recording and live streaming.
   - [VLC media player](https://www.videolan.org/vlc/index.html "VLC media player") - Multimedia player and framework that plays most multimedia files.
 
-------------
-
 ## Office
 
 - [LibreOffice](https://www.libreoffice.org "LibreOffice") - A powerful office suite.
 - [Master PDF Editor](https://code-industry.net/masterpdfeditor/ "Master PDF Editor") - Multifunctional PDF Editor.
 - [Scribus](https://www.scribus.net "Scribus") - Page layout and desktop publishing for Linux.
-
-------------
 
 ## School and Science
 
@@ -91,8 +81,6 @@ What is worth using in the long term on a linux pc...
 - Math
   - [GeoGebra](https://www.geogebra.org "geogebra.org") - Solve equations, graph functions, create constructions, analyze data, explore 3D math!
   - [Qalculate!](http://qalculate.github.io "qalculate.github.io") - The ultimate desktop calculator.
-
-------------
 
 ## Software development
 
@@ -116,16 +104,12 @@ What is worth using in the long term on a linux pc...
   - [One Dark Pro](https://binaryify.github.io/OneDark-Pro/#/ "One Dark Pro") - Atom's iconic One Dark theme for Visual Studio Code.
   - [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff "Partial Diff") - Compare (diff) text selections within a file, across files, or to the clipboard.
 
-------------
-
 ## Server
 
 - [Apache HTTP Server](https://httpd.apache.org "Apache HTTP Server") - HTTP (Web) server.
 - [Discourse](https://www.discourse.org "Discourse") - Modern discussion platform: forum, long-form chat room, mailing list and more!
 - [Jitsi](https://jitsi.org "Jitsi") - Build and deploy secure videoconferencing solutions.
 - [Nextcloud](https://nextcloud.com "Nextcloud") - Suite of client-server software for creating and using file hosting services.
-
-------------
 
 ## System
 
