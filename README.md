@@ -105,6 +105,7 @@ What is worth using in the long term on a linux pc...
   - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced "https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced") - Markdown Preview Enhanced ported to vscode.
   - [One Dark Pro](https://binaryify.github.io/OneDark-Pro/#/ "https://binaryify.github.io/OneDark-Pro/#/") - Atom's iconic One Dark theme for Visual Studio Code.
   - [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff "https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff") - Compare (diff) text selections within a file, across files, or to the clipboard.
+  - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode "https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode") - VS Code package to format your JavaScript / TypeScript / CSS using Prettier.
 
 ## Server
 
