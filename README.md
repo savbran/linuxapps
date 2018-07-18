@@ -97,12 +97,14 @@ What is worth using in the long term on a linux pc...
 - [OpenProject](https://www.openproject.org "OpenProject") - Open source project management software. Powerful, easy-to-use, free.
 - **[Visual Studio Code](https://code.visualstudio.com "Visual Studio Code")** - A lightweight but powerful source code editor.
  Plugins:
-  - [Code Outline](https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline "Code Outline") - A code outline tree provider for VSCode.
-  - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens "GitLens — Git supercharged") - Supercharge the Git capabilities built into Visual Studio Code.
-  - [Insert Numbers](https://marketplace.visualstudio.com/items?itemName=Asuka.insertnumbers "Insert Numbers") - Insert increasing numbers.
-  - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced "Markdown Preview Enhanced") - Markdown Preview Enhanced ported to vscode.
-  - [One Dark Pro](https://binaryify.github.io/OneDark-Pro/#/ "One Dark Pro") - Atom's iconic One Dark theme for Visual Studio Code.
-  - [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff "Partial Diff") - Compare (diff) text selections within a file, across files, or to the clipboard.
+  - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer "https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer") - An extension for colorizing matching brackets and code blocks.
+  - [Code Outline](https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline "https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline") - A code outline tree provider for VSCode.
+  - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens") - Supercharge the Git capabilities built into Visual Studio Code.
+  - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint "https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint") - Integrates ESLint (pluggable linting utility for JavaScript and JSX) into VS Code.
+  - [Insert Numbers](https://marketplace.visualstudio.com/items?itemName=Asuka.insertnumbers "https://marketplace.visualstudio.com/items?itemName=Asuka.insertnumbers") - Insert increasing numbers.
+  - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced "https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced") - Markdown Preview Enhanced ported to vscode.
+  - [One Dark Pro](https://binaryify.github.io/OneDark-Pro/#/ "https://binaryify.github.io/OneDark-Pro/#/") - Atom's iconic One Dark theme for Visual Studio Code.
+  - [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff "https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff") - Compare (diff) text selections within a file, across files, or to the clipboard.
 
 ## Server
 
