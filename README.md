@@ -129,7 +129,8 @@ What is worth using in the long term on a linux pc...
   - [youtube-dl](https://rg3.github.io/youtube-dl "youtube-dl") - A command-line program to download videos from YouTube.com and a few more sites.
 - Customizations
   - Fonts
-    - [Fantasque Sans Mono](https://fontlibrary.org/en/font/fantasque-sans-mono "Fantasque Sans Mono") - Programming font, designed with functionality in mind.
+    - [Droid Sans Mono](https://www.fontsquirrel.com/fonts/droid-sans-mono "https://www.fontsquirrel.com/fonts/droid-sans-mono") - Droid is a font family created by Ascender Corporation for use by the Open Handset Alliance platform, Android.
+    - [Fantasque Sans Mono](https://fontlibrary.org/en/font/fantasque-sans-mono "https://fontlibrary.org/en/font/fantasque-sans-mono") - Programming font, designed with functionality in mind.
     - [Hack](https://sourcefoundry.org/hack "Hack") - A typeface designed for source code.
     - [Hermit](https://pcaro.es/p/hermit "Hermit") - Monospace font designed to be clear, pragmatic and very readable. For programming.
     - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro "Source Code Pro") - Monospaced font family for user interface and coding environments.
