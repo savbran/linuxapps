@@ -61,6 +61,7 @@ What is worth using in the long term on a linux pc...
   - [LMMS](https://lmms.io "Linux Multi-Media Studio") - Produce music with your computer.
   - [Lollypop](https://wiki.gnome.org/Apps/Lollypop "Lollypop") - Modern muisc player and library organizer.
   - [MusicBrainz Picard](https://picard.musicbrainz.org "MusicBrainz Picard") - Music tagger that recovers music info from internet.
+  - [PulseEffects](https://github.com/wwmm/pulseeffects "https://github.com/wwmm/pulseeffects") - Audio effects for Pulseaudio applications (equalizer, autogain and a lot of other effects).
 - Video
   - [Kdenlive](https://kdenlive.org "Kdenlive") - KDE Non-Linear Video Editor.
   - [MPV](https://mpv.io "MPV") - Cross-platform media player with GPU video decoding.
