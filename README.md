@@ -1,4 +1,3 @@
-
 # ~ Personal list of useful linux software ~
 
 What is worth using in the long term on a linux pc...
@@ -96,8 +95,13 @@ What is worth using in the long term on a linux pc...
 - [Editor.md](https://pandao.github.io/editor.md/en.html "pandao.github.io/editor.md/en.html") - Online Markdown editor.
 - [JSON Editor Online](https://jsoneditoronline.org "jsoneditoronline.org") - Online editor to view, edit, and format JSON.
 - [OpenProject](https://www.openproject.org "OpenProject") - Open source project management software. Powerful, easy-to-use, free.
+- **[Python](https://www.python.org "https://www.python.org")** packages:
+  - [numpydoc](https://pypi.org/project/numpydoc/ "https://pypi.org/project/numpydoc/") - Sphinx extension to support docstrings in Numpy format.
+  - [pylint](https://www.pylint.org/ "https://www.pylint.org") - A tool that checks for errors in Python code, tries to enforce a coding standard and looks for code smells.
+  - [yapf](https://github.com/google/yapf "https://github.com/google/yapf") - A formatter for Python files (preferred formattig style: google or pep8).
+
 - **[Visual Studio Code](https://code.visualstudio.com "Visual Studio Code")** - A lightweight but powerful source code editor.
- Plugins:
+  Plugins:
   - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer "https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer") - An extension for colorizing matching brackets and code blocks.
   - [Code Outline](https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline "https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline") - A code outline tree provider for VSCode.
   - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens") - Supercharge the Git capabilities built into Visual Studio Code.
