@@ -4,51 +4,51 @@ What is worth using in the long term on a linux pc...
 
 ## Games
 
-- [Dust Racing 2D](http://juzzlin.github.io/DustRacing2D "http://juzzlin.github.io/DustRacing2D") - Cross-platform 2D racing game (OpenGL).
-- [Frogatto](https://frogatto.com "https://frogatto.com") - Action-adventure game, starring a certain quixotic frog.
-- [SuperTuxKart](https://supertuxkart.net "https://supertuxkart.net") - 3D arcade racer with a variety characters, tracks, and modes to play.
-- [Tales of Maj'Eyal](https://te4.org "https://te4.org") - Roguelike RPG fantasy game featuring turn-based combat and character building.
-- [Tanks of Freedom](http://tof.p1x.in "http://tof.p1x.in") - Indie Turn Based Strategy in Isometric Pixel Art.
+- [Dust Racing 2D](http://juzzlin.github.io/DustRacing2D "juzzlin.github.io/DustRacing2D") - Cross-platform 2D racing game (OpenGL).
+- [Frogatto](https://frogatto.com "frogatto.com") - Action-adventure game, starring a certain quixotic frog.
+- [SuperTuxKart](https://supertuxkart.net "supertuxkart.net") - 3D arcade racer with a variety characters, tracks, and modes to play.
+- [Tales of Maj'Eyal](https://te4.org "te4.org") - Roguelike RPG fantasy game featuring turn-based combat and character building.
+- [Tanks of Freedom](http://tof.p1x.in "tof.p1x.in") - Indie Turn Based Strategy in Isometric Pixel Art.
 - **Emulators, GUI front-ends**
   - C64
-    - [jGameBase](https://jgamebase.sourceforge.io "jGameBase") - Retro-gaming emu­lator front­end and game data­base utility (for C64 and other emulators).
-    - [VICE](http://vice-emu.sourceforge.net "the VersatIle Commodore Emulator") - Cross-platform emulator for old 8-bit computers: C64, C64DTV, C128, VIC20.
+    - [jGameBase](https://jgamebase.sourceforge.io "jgamebase.sourceforge.io") - Retro-gaming emu­lator front­end and game data­base utility (for C64 and other emulators).
+    - [VICE](http://vice-emu.sourceforge.net "vice-emu.sourceforge.net") - Cross-platform emulator for old 8-bit computers: C64, C64DTV, C128, VIC20.
     - Websites with C64 games
-      - [c64.com](http://www.c64.com "http://www.c64.com")
-      - [gamebase64.com](http://www.gamebase64.com "http://www.gamebase64.com")
-      - [edicola 8-bit by Sovox](http://specialprogramsipe.altervista.org/default.php "http://specialprogramsipe.altervista.org/default.php")
-      - [edicolac64.com](http://www.edicolac64.com/public/index.php "http://www.edicolac64.com/public/index.php")
+      - [c64.com](http://www.c64.com "www.c64.com")
+      - [gamebase64.com](http://www.gamebase64.com "www.gamebase64.com")
+      - [edicola 8-bit by Sovox](http://specialprogramsipe.altervista.org/default.php "specialprogramsipe.altervista.org/default.php")
+      - [edicolac64.com](http://www.edicolac64.com/public/index.php "www.edicolac64.com/public/index.php")
   - DosBox
     - [DBGL](http://members.quicknet.nl/blankendaalr/dbgl "DOSBox Game Launcher") - Multi-platform frontend for DOSBox.
-    - [DOSBox](http://www.dosbox.com "http://www.dosbox.com") - DOS-emulator that uses the SDL-library.
+    - [DOSBox](http://www.dosbox.com "www.dosbox.com") - DOS-emulator that uses the SDL-library.
   - M.A.M.E.
-    - [QMC2](http://qmc2.batcom-it.net "http://qmc2.batcom-it.net") - Qt based multi-platform GUI front end for MAME and SDLMAME.
-    - [SDLMAME](http://sdlmame.wallyweek.org "http://sdlmame.wallyweek.org") - Port of the popular [MAME™](http://mamedev.org "Multiple Arcade Machine Emulator™") emulator to the SDL library.
+    - [QMC2](http://qmc2.batcom-it.net "qmc2.batcom-it.net") - Qt based multi-platform GUI front end for MAME and SDLMAME.
+    - [SDLMAME](http://sdlmame.wallyweek.org "sdlmame.wallyweek.org") - Port of the popular [MAME™](http://mamedev.org "Multiple Arcade Machine Emulator™") emulator to the SDL library.
 
 ## Graphics
 
 - 2D
-  - [Alchemy](http://al.chemy.org "Alchemy") - Explore and experiment with alternative ways of drawing.
-  - [Aseprite](https://www.aseprite.org "Aseprite") - Animated sprite editor & pixel art tool.
-  - [Evolvotron](http://www.bottlenose.net/share/evolvotron "Evolvotron") - An interactive "generative art" application for Linux.
-  - [Gimp](http://www.gimp.org "Gimp") - GNU Image Manipulation Program.
-  - [Gravit Designer](https://www.designer.io "Gravit Designer") - A cross-platform design tool.
-  - [Krita](https://krita.org "Krita") - A professional FREE and open source painting program.
-  - [Inkscape](https://inkscape.org "Inkscape") - Open-source vector graphics editor.
+  - [Alchemy](http://al.chemy.org "al.chemy.org") - Explore and experiment with alternative ways of drawing.
+  - [Aseprite](https://www.aseprite.org "www.aseprite.org") - Animated sprite editor & pixel art tool.
+  - [Evolvotron](http://www.bottlenose.net/share/evolvotron "www.bottlenose.net/share/evolvotron") - An interactive "generative art" application for Linux.
+  - [Gimp](http://www.gimp.org "www.gimp.org") - GNU Image Manipulation Program.
+  - [Gravit Designer](https://www.designer.io "www.designer.io") - A cross-platform design tool.
+  - [Krita](https://krita.org "krita.org") - A professional FREE and open source painting program.
+  - [Inkscape](https://inkscape.org "inkscape.org") - Open-source vector graphics editor.
 - 3D
-  - [Blender](https://www.blender.org "Blender") - 3D creation suite.
-  - [FreeCAD](https://freecadweb.org "FreeCAD") - A parametric 3D modeler made primarily to design real-life objects of any size.
+  - [Blender](https://www.blender.org "www.blender.org") - 3D creation suite.
+  - [FreeCAD](https://freecadweb.org "freecadweb.org") - A parametric 3D modeler made primarily to design real-life objects of any size.
 - Color tools
-  - [Gcolor2](http://gcolor2.sourceforge.net "Gcolor2") - GTK+2 color selector.
-  - [Gpick](http://www.gpick.org "Gpick") - Advanced color picker and palette editing tool.
+  - [Gcolor2](http://gcolor2.sourceforge.net "color2.sourceforge.net") - GTK+2 color selector.
+  - [Gpick](http://www.gpick.org "www.gpick.org") - Advanced color picker and palette editing tool.
 
 ## Internet
 
-- [Firefox](https://www.mozilla.org/en-US/firefox "Firefox") - Web browser developed by Mozilla Foundation.
+- [Firefox](https://www.mozilla.org "www.mozilla.org") - Web browser developed by Mozilla Foundation.
   Plugins:
-  - [Feedbro](https://addons.mozilla.org/it/firefox/addon/feedbroreader "Feedbro") - Tree-based RSS feed navigation with folders and drag & drop support.
-  - [Video DownloadHelper](https://addons.mozilla.org/it/firefox/addon/video-downloadhelper "Video DownloadHelper") - Download and convert Web videos from hundreds of YouTube-like sites.
-- [qBittorrent](https://www.qbittorrent.org "qBittorrent") - Bittorrent client programmed in C++ / Qt that uses libtorrent and useful plugins.
+  - [Feedbro](https://addons.mozilla.org/it/firefox/addon/feedbroreader "https://addons.mozilla.org/it/firefox/addon/feedbroreader") - Tree-based RSS feed navigation with folders and drag & drop support.
+  - [Video DownloadHelper](https://addons.mozilla.org/it/firefox/addon/video-downloadhelper "https://addons.mozilla.org/it/firefox/addon/video-downloadhelper") - Download and convert Web videos from hundreds of YouTube-like sites.
+- [qBittorrent](https://www.qbittorrent.org "www.qbittorrent.org") - Bittorrent client programmed in C++ / Qt that uses libtorrent and useful plugins.
 
 ## Multimedia
 
