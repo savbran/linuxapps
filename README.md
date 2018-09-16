@@ -94,12 +94,10 @@ What is worth using in the long term on a linux pc...
 - [Editor.md](https://pandao.github.io/editor.md/en.html "pandao.github.io/editor.md/en.html") - Online Markdown editor.
 - [JSON Editor Online](https://jsoneditoronline.org "jsoneditoronline.org") - Online editor to view, edit, and format JSON.
 - [OpenProject](https://www.openproject.org "OpenProject") - Open source project management software. Powerful, easy-to-use, free.
-
 - **[Python](https://www.python.org "https://www.python.org")** packages:
   - [numpydoc](https://pypi.org/project/numpydoc/ "https://pypi.org/project/numpydoc/") - Sphinx extension to support docstrings in Numpy format.
   - [pylint](https://www.pylint.org/ "https://www.pylint.org") - A tool that checks for errors in Python code, tries to enforce a coding standard and looks for code smells.
   - [yapf](https://github.com/google/yapf "https://github.com/google/yapf") - A formatter for Python files (preferred formattig style: google or pep8).
-
 - **[Visual Studio Code](https://code.visualstudio.com "Visual Studio Code")** - A lightweight but powerful source code editor.
   - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer "https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer") - An extension for colorizing matching brackets and code blocks.
   - [Code Outline](https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline "https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline") - A code outline tree provider for VSCode.
@@ -110,6 +108,7 @@ What is worth using in the long term on a linux pc...
   - [One Dark Pro](https://binaryify.github.io/OneDark-Pro/#/ "https://binaryify.github.io/OneDark-Pro/#/") - Atom's iconic One Dark theme for Visual Studio Code.
   - [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff "https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff") - Compare (diff) text selections within a file, across files, or to the clipboard.
   - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode "https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode") - VS Code package to format your JavaScript / TypeScript / CSS using Prettier.
+  - [Python Extension Pack](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack "https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack") - Popular Visual Studio Code extensions for Python.
 
 ## Server
 
