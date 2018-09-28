@@ -96,6 +96,8 @@ What is worth using in the long term on a linux pc...
 - **[Python](https://www.python.org "https://www.python.org")** packages:
   - [numpydoc](https://pypi.org/project/numpydoc/ "https://pypi.org/project/numpydoc/") - Sphinx extension to support docstrings in Numpy format.
   - [pylint](https://www.pylint.org/ "https://www.pylint.org") - A tool that checks for errors in Python code, tries to enforce a coding standard and looks for code smells.
+  - [rope](https://pypi.org/project/rope/ "https://pypi.org/project/rope/") - A python refactoring library.
+  - [autopep8](https://pypi.org/project/autopep8/ "https://pypi.org/project/autopep8/") - A tool that automatically formats Python code to conform to the PEP 8 style guide.
   - [yapf](https://github.com/google/yapf "https://github.com/google/yapf") - A formatter for Python files (preferred formattig style: google or pep8).
 - **[Visual Studio Code](https://code.visualstudio.com "Visual Studio Code")** - A lightweight but powerful source code editor.
   - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer "https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer") - An extension for colorizing matching brackets and code blocks.
