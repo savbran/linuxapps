@@ -113,10 +113,11 @@ What is worth using in the long term on a linux pc...
 
 ## Server
 
-- [Apache HTTP Server](https://httpd.apache.org "Apache HTTP Server") - HTTP (Web) server.
-- [Discourse](https://www.discourse.org "Discourse") - Modern discussion platform: forum, long-form chat room, mailing list and more!
-- [Jitsi](https://jitsi.org "Jitsi") - Build and deploy secure videoconferencing solutions.
-- [Nextcloud](https://nextcloud.com "Nextcloud") - Suite of client-server software for creating and using file hosting services.
+- [Apache HTTP Server](https://httpd.apache.org "httpd.apache.org") - HTTP (Web) server.
+- [Discourse](https://www.discourse.org "discourse.org") - Modern discussion platform: forum, long-form chat room, mailing list and more!
+- [Jitsi](https://jitsi.org "jitsi.org") - Build and deploy secure videoconferencing solutions.
+- [Nextcloud](https://nextcloud.com "nextcloud.com") - Suite of client-server software for creating and using file hosting services.
+- [Wiki.js](https://wiki.js.org "wiki.js.org") - An open source, modern and powerful wiki app built on Node.js, Git and Markdown.
 
 ## System
 
