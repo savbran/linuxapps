@@ -134,15 +134,17 @@ What is worth using in the long term on a linux pc...
   - [youtube-dl](https://rg3.github.io/youtube-dl "youtube-dl") - A command-line program to download videos from YouTube.com and a few more sites.
 - Customizations
   - Fonts
-    - [Droid Sans Mono](https://www.fontsquirrel.com/fonts/droid-sans-mono "https://www.fontsquirrel.com/fonts/droid-sans-mono") - Droid is a font family created by Ascender Corporation for use by the Open Handset Alliance platform, Android.
-    - [Fantasque Sans Mono](https://fontlibrary.org/en/font/fantasque-sans-mono "https://fontlibrary.org/en/font/fantasque-sans-mono") - Programming font, designed with functionality in mind.
-    - [Hack](https://sourcefoundry.org/hack "Hack") - A typeface designed for source code.
-    - [Hermit](https://pcaro.es/p/hermit "Hermit") - Monospace font designed to be clear, pragmatic and very readable. For programming.
-    - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro "Source Code Pro") - Monospaced font family for user interface and coding environments.
+    - [FontManager](https://github.com/FontManager/master "github.com/FontManager/master") - A simple font management application for GTK+ Desktop Environments.
+    - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts "github.com/ryanoasis/nerd-fonts") - A set of fonts for programmers and nerds (in Arch linux there is the package nerd-fonts).
+    - [Droid Sans Mono](https://www.fontsquirrel.com/fonts/droid-sans-mono "www.fontsquirrel.com/fonts/droid-sans-mono") - Droid is a font family created by Ascender Corporation for use by the Open Handset Alliance platform, Android.
+    - [Fantasque Sans Mono](https://fontlibrary.org/en/font/fantasque-sans-mono "fontlibrary.org/en/font/fantasque-sans-mono") - Programming font, designed with functionality in mind.
+    - [Hack](https://sourcefoundry.org/hack "sourcefoundry.org/hack") - A typeface designed for source code.
+    - [Hermit](https://pcaro.es/p/hermit "pcaro.es/p/hermit") - Monospace font designed to be clear, pragmatic and very readable. For programming.
+    - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro "github.com/adobe-fonts/source-code-pro") - Monospaced font family for user interface and coding environments.
   - Themes
-    - [Adapta-gtk-theme](https://github.com/adapta-project/adapta-gtk-theme "Adapta-gtk-theme") - GTK Theme based on Material Design Guidelines.
-    - [Arc theme](https://github.com/horst3180/arc-theme "Arc theme") - A clean, readable theme supporting desktop environments like GNOME, XFCE, MATE, etc. There's also a variant with greenish colors (Arc Maia) made by Manjaro Linux team.
-    - [Papirus icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme "Papirus icon theme") - SVG icon theme for Linux, based on Paper Icon Set, with more stuff.
-- [QDirStat](https://github.com/shundhammer/qdirstat "QDirStat") - Graphical application to show where your disk space has gone and to help you to clean it up.
-- [Wine](https://www.winehq.org "Wine") - A compatibility layer capable of running Windows applications on POSIX-compliant operating systems.
-- [Winetricks](https://github.com/Winetricks/winetricks "Winetricks") - An easy tool to work around problems in Wine.
+    - [Adapta-gtk-theme](https://github.com/adapta-project/adapta-gtk-theme "github.com/adapta-project/adapta-gtk-theme") - GTK Theme based on Material Design Guidelines.
+    - [Arc theme](https://github.com/horst3180/arc-theme "github.com/horst3180/arc-theme") - A clean, readable theme supporting desktop environments like GNOME, XFCE, MATE, etc. There's also a variant with greenish colors (Arc Maia) made by Manjaro Linux team.
+    - [Papirus icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme "github.com/PapirusDevelopmentTeam/papirus-icon-theme") - SVG icon theme for Linux, based on Paper Icon Set, with more stuff.
+- [QDirStat](https://github.com/shundhammer/qdirstat "github.com/shundhammer/qdirstat") - Graphical application to show where your disk space has gone and to help you to clean it up.
+- [Wine](https://www.winehq.org "winehq.org") - A compatibility layer capable of running Windows applications on POSIX-compliant operating systems.
+- [Winetricks](https://github.com/Winetricks/winetricks "github.com/Winetricks/winetricks") - An easy tool to work around problems in Wine.
