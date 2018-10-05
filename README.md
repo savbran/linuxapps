@@ -135,7 +135,7 @@ What is worth using in the long term on a linux pc...
 - Customizations
   - Fonts
     - [FontManager](https://github.com/FontManager/master "github.com/FontManager/master") - A simple font management application for GTK+ Desktop Environments.
-    - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts "github.com/ryanoasis/nerd-fonts") - A set of fonts for programmers and nerds (in Arch linux there is the package nerd-fonts).
+    - [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts "github.com/ryanoasis/nerd-fonts") - A set of fonts for programmers and nerds (in Arch linux there is the package nerd-fonts).
     - [Droid Sans Mono](https://www.fontsquirrel.com/fonts/droid-sans-mono "www.fontsquirrel.com/fonts/droid-sans-mono") - Droid is a font family created by Ascender Corporation for use by the Open Handset Alliance platform, Android.
     - [Fantasque Sans Mono](https://fontlibrary.org/en/font/fantasque-sans-mono "fontlibrary.org/en/font/fantasque-sans-mono") - Programming font, designed with functionality in mind.
     - [Hack](https://sourcefoundry.org/hack "sourcefoundry.org/hack") - A typeface designed for source code.
