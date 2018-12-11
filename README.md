@@ -50,6 +50,7 @@ What is worth using in the long term on a linux pc...
   Plugins:
   - [Feedbro](https://addons.mozilla.org/it/firefox/addon/feedbroreader "https://addons.mozilla.org/it/firefox/addon/feedbroreader") - Tree-based RSS feed navigation with folders and drag & drop support.
   - [Video DownloadHelper](https://addons.mozilla.org/it/firefox/addon/video-downloadhelper "https://addons.mozilla.org/it/firefox/addon/video-downloadhelper") - Download and convert Web videos from hundreds of YouTube-like sites.
+- [JDownloader](http://jdownloader.org "jdownloader.org") - JDownloader is a free, open-source download management tool
 - [qBittorrent](https://www.qbittorrent.org "www.qbittorrent.org") - Bittorrent client programmed in C++ / Qt that uses libtorrent and useful plugins.
 
 ## Multimedia
