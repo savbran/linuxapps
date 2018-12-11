@@ -90,7 +90,7 @@ What is worth using in the long term on a linux pc...
   - [Cucumber Eclipse Plugin](https://cucumber.github.io/cucumber-eclipse/ "https://cucumber.github.io/cucumber-eclipse/") - Official Eclipse plugin to use Cucumber.
   - [DevStyle](https://cucumber.github.io/cucumber-eclipse/ "DevStyle") - Modernizing tools for Eclipse (theming, breadcrumb navigation, etc).
   - [EGit](https://marketplace.eclipse.org/content/egit-git-integration-eclipse "https://marketplace.eclipse.org/content/egit-git-integration-eclipse") - Git integration for Eclipse.
-  - [M2Eclipse](https://www.eclipse.org/m2e/ "www.eclipse.org/m2e") - Git integration for Eclipse.
+  - [M2Eclipse](https://www.eclipse.org/m2e/ "www.eclipse.org/m2e") - M2Eclipse provides tight integration for Apache Maven into the IDE.
   - [PyDev](http://www.pydev.org "PyDev") - Python IDE for Eclipse.
   - [Subclipse](https://marketplace.eclipse.org/content/subclipse "Subclipse") - Support for Subversion within the Eclipse IDE.
   - [STS](https://marketplace.eclipse.org/content/spring-tools-aka-spring-ide-and-spring-tool-suite "Spring Tool Suite") - Environment for building Spring-powered enterprise applications.
