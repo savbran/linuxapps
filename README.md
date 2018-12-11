@@ -109,10 +109,11 @@ What is worth using in the long term on a linux pc...
   - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint "https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint") - Integrates ESLint (pluggable linting utility for JavaScript and JSX) into VS Code.
   - [Insert Numbers](https://marketplace.visualstudio.com/items?itemName=Asuka.insertnumbers "https://marketplace.visualstudio.com/items?itemName=Asuka.insertnumbers") - Insert increasing numbers.
   - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced "https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced") - Markdown Preview Enhanced ported to vscode.
-  - [One Dark Pro](https://binaryify.github.io/OneDark-Pro/#/ "https://binaryify.github.io/OneDark-Pro/#/") - Atom's iconic One Dark theme for Visual Studio Code.
+  - [One Dark Pro Theme](https://binaryify.github.io/OneDark-Pro/#/ "https://binaryify.github.io/OneDark-Pro/#/") - Atom's iconic One Dark theme for Visual Studio Code.
   - [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff "https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff") - Compare (diff) text selections within a file, across files, or to the clipboard.
   - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode "https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode") - VS Code package to format your JavaScript / TypeScript / CSS using Prettier.
   - [Python Extension Pack](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack "https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack") - Popular Visual Studio Code extensions for Python.
+  - [Super One Dark Theme](https://marketplace.visualstudio.com/items?itemName=seansassenrath.vscode-theme-superonedark "https://marketplace.visualstudio.com/items?itemName=seansassenrath.vscode-theme-superonedark") - Atom One Dark Theme with darker background color.
 
 ## Server
 
