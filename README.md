@@ -96,6 +96,7 @@ What is worth using in the long term on a linux pc...
 - [Editor.md](https://pandao.github.io/editor.md/en.html "pandao.github.io/editor.md/en.html") - Online Markdown editor.
 - [JSON Editor Online](https://jsoneditoronline.org "jsoneditoronline.org") - Online editor to view, edit, and format JSON.
 - [OpenProject](https://www.openproject.org "OpenProject") - Open source project management software. Powerful, easy-to-use, free.
+- [Restlet Client](https://restlet.com/modules/client/ "https://restlet.com/modules/client/") - Test & Automate your REST APIs (in Chrome web browser or standalone)
 - **[Python](https://www.python.org "https://www.python.org")** packages:
   - [numpydoc](https://pypi.org/project/numpydoc/ "https://pypi.org/project/numpydoc/") - Sphinx extension to support docstrings in Numpy format.
   - [pylint](https://www.pylint.org/ "https://www.pylint.org") - A tool that checks for errors in Python code, tries to enforce a coding standard and looks for code smells.
