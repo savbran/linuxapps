@@ -87,8 +87,10 @@ What is worth using in the long term on a linux pc...
 ## Software development
 
 - **[Eclipse](https://www.eclipse.org "Eclipse")** - Cross-plattform and cross-language IDE with powerful tools.
-  - [DevStyle](https://www.genuitec.com/products/devstyle "DevStyle") - Modernizing tools for Eclipse (theming, breadcrumb navigation, etc).
-  - [EGit](https://marketplace.eclipse.org/content/egit-git-integration-eclipse "EGit") - Git integration for Eclipse.
+  - [Cucumber Eclipse Plugin](https://cucumber.github.io/cucumber-eclipse/ "https://cucumber.github.io/cucumber-eclipse/") - Official Eclipse plugin to use Cucumber.
+  - [DevStyle](https://cucumber.github.io/cucumber-eclipse/ "DevStyle") - Modernizing tools for Eclipse (theming, breadcrumb navigation, etc).
+  - [EGit](https://marketplace.eclipse.org/content/egit-git-integration-eclipse "https://marketplace.eclipse.org/content/egit-git-integration-eclipse") - Git integration for Eclipse.
+  - [M2Eclipse](https://www.eclipse.org/m2e/ "www.eclipse.org/m2e") - Git integration for Eclipse.
   - [PyDev](http://www.pydev.org "PyDev") - Python IDE for Eclipse.
   - [Subclipse](https://marketplace.eclipse.org/content/subclipse "Subclipse") - Support for Subversion within the Eclipse IDE.
   - [STS](https://marketplace.eclipse.org/content/spring-tools-aka-spring-ide-and-spring-tool-suite "Spring Tool Suite") - Environment for building Spring-powered enterprise applications.
