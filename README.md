@@ -143,12 +143,12 @@ What is worth using in the long term on a linux pc...
 - Customizations
   - Fonts
     - [FontManager](https://github.com/FontManager/master "github.com/FontManager/master") - A simple font management application for GTK+ Desktop Environments.
-    - [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts "github.com/ryanoasis/nerd-fonts") - A set of fonts for programmers and nerds (in Arch linux there is the package nerd-fonts).
     - [Droid Sans Mono](https://www.fontsquirrel.com/fonts/droid-sans-mono "www.fontsquirrel.com/fonts/droid-sans-mono") - Droid is a font family created by Ascender Corporation for use by the Open Handset Alliance platform, Android.
+    - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro "github.com/adobe-fonts/source-code-pro") - Monospaced font family for user interface and coding environments.
+    - [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts "github.com/ryanoasis/nerd-fonts") - A set of fonts for programmers and nerds (in Arch linux there is the package nerd-fonts).
     - [Fantasque Sans Mono](https://fontlibrary.org/en/font/fantasque-sans-mono "fontlibrary.org/en/font/fantasque-sans-mono") - Programming font, designed with functionality in mind.
     - [Hack](https://sourcefoundry.org/hack "sourcefoundry.org/hack") - A typeface designed for source code.
     - [Hermit](https://pcaro.es/p/hermit "pcaro.es/p/hermit") - Monospace font designed to be clear, pragmatic and very readable. For programming.
-    - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro "github.com/adobe-fonts/source-code-pro") - Monospaced font family for user interface and coding environments.
   - Themes
     - [Adapta-gtk-theme](https://github.com/adapta-project/adapta-gtk-theme "github.com/adapta-project/adapta-gtk-theme") - GTK Theme based on Material Design Guidelines.
     - [Arc theme](https://github.com/horst3180/arc-theme "github.com/horst3180/arc-theme") - A clean, readable theme supporting desktop environments like GNOME, XFCE, MATE, etc. There's also a variant with greenish colors (Arc Maia) made by Manjaro Linux team.
