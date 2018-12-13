@@ -88,6 +88,7 @@ What is worth using in the long term on a linux pc...
 
 - **[Eclipse](https://www.eclipse.org "Eclipse")** - Cross-plattform and cross-language IDE with powerful tools.
   - [Cucumber Eclipse Plugin](https://cucumber.github.io/cucumber-eclipse/ "https://cucumber.github.io/cucumber-eclipse/") - Official Eclipse plugin to use Cucumber.
+  Cucumber is a tool that supports Behaviour-Driven Development(BDD). To install it in eclipse, don't use the marketplace but install it as new software using this site: http://cucumber.github.io/cucumber-eclipse/update-site/
   - [DevStyle](https://cucumber.github.io/cucumber-eclipse/ "DevStyle") - Modernizing tools for Eclipse (theming, breadcrumb navigation, etc).
   - [EGit](https://marketplace.eclipse.org/content/egit-git-integration-eclipse "https://marketplace.eclipse.org/content/egit-git-integration-eclipse") - Git integration for Eclipse.
   - [M2Eclipse](https://www.eclipse.org/m2e/ "www.eclipse.org/m2e") - M2Eclipse provides tight integration for Apache Maven into the IDE.
