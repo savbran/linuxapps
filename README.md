@@ -87,14 +87,15 @@ What is worth using in the long term on a linux pc...
 ## Software development
 
 - **[Eclipse](https://www.eclipse.org "Eclipse")** - Cross-plattform and cross-language IDE with powerful tools.
-  - [Cucumber Eclipse Plugin](https://cucumber.github.io/cucumber-eclipse/ "https://cucumber.github.io/cucumber-eclipse/") - Official Eclipse plugin to use Cucumber. Cucumber is a tool that supports Behaviour-Driven Development (BDD). To install Cucumber in eclipse, don't use the Marketplace but install it as new software (Eclipse> Help> Install New Software...) using this site: http://cucumber.github.io/cucumber-eclipse/update-site/
-  - [DevStyle](https://cucumber.github.io/cucumber-eclipse/ "DevStyle") - Modernizing tools for Eclipse (theming, breadcrumb navigation, etc).
-  - [EGit](https://marketplace.eclipse.org/content/egit-git-integration-eclipse "https://marketplace.eclipse.org/content/egit-git-integration-eclipse") - Git integration for Eclipse.
-  - [M2Eclipse](https://www.eclipse.org/m2e/ "www.eclipse.org/m2e") - M2Eclipse plugin provides integration for Apache Maven into the Eclipse IDE. To install it into Eclipse don't use the Marketplace but install a new software (Eclipse> Help> Install New Software...) using this site: http://download.eclipse.org/technology/m2e/releases/
-  - [PyDev](http://www.pydev.org "PyDev") - Python IDE for Eclipse.
-  - [Subclipse](https://marketplace.eclipse.org/content/subclipse "Subclipse") - Support for Subversion within the Eclipse IDE.
-  - [STS](https://marketplace.eclipse.org/content/spring-tools-aka-spring-ide-and-spring-tool-suite "Spring Tool Suite") - Environment for building Spring-powered enterprise applications.
-  - [WTP](https://marketplace.eclipse.org/content/eclipse-web-developer-tools-0 "Web Tools Platform") - Web Developer Tools. Includes HTML, CSS, JSON, JavaScript, XML.
+  - [ANSI Escape in Console plugin](https://marketplace.eclipse.org/content/ansi-escape-console "https://marketplace.eclipse.org/content/ansi-escape-console") - This plugin interprets the ANSI escape sequences to color the console output. Useful to correctly read Cucumber Test results output on Eclipse Console. It can be installed from Eclipse Marketplace.
+  - [Cucumber Plugin](https://cucumber.github.io/cucumber-eclipse/ "https://cucumber.github.io/cucumber-eclipse/") - Official Eclipse plugin to use Cucumber. Cucumber is a tool that supports Behaviour-Driven Development (BDD). To install Cucumber in eclipse, don't use the Marketplace but install it as new software (Eclipse> Help> Install New Software...) using this site: http://cucumber.github.io/cucumber-eclipse/update-site/
+  - [DevStyle plugin](https://cucumber.github.io/cucumber-eclipse/ "DevStyle") - Modernizing tools for Eclipse (theming, breadcrumb navigation, etc).
+  - [EGit plugin](https://marketplace.eclipse.org/content/egit-git-integration-eclipse "https://marketplace.eclipse.org/content/egit-git-integration-eclipse") - Git integration for Eclipse.
+  - [M2Eclipse plugin](https://www.eclipse.org/m2e/ "www.eclipse.org/m2e") - M2Eclipse plugin provides integration for Apache Maven into the Eclipse IDE. To install it into Eclipse don't use the Marketplace but install a new software (Eclipse> Help> Install New Software...) using this site: http://download.eclipse.org/technology/m2e/releases/
+  - [PyDev plugin](http://www.pydev.org "PyDev") - Python IDE for Eclipse.
+  - [Subclipse plugin](https://marketplace.eclipse.org/content/subclipse "Subclipse") - Support for Subversion within the Eclipse IDE.
+  - [STS plugin](https://marketplace.eclipse.org/content/spring-tools-aka-spring-ide-and-spring-tool-suite "Spring Tool Suite") - Environment for building Spring-powered enterprise applications.
+  - [WTP plugin](https://marketplace.eclipse.org/content/eclipse-web-developer-tools-0 "Web Tools Platform") - Web Developer Tools. Includes HTML, CSS, JSON, JavaScript, XML.
 - [Editor.md](https://pandao.github.io/editor.md/en.html "pandao.github.io/editor.md/en.html") - Online Markdown editor.
 - [JSON Editor Online](https://jsoneditoronline.org "jsoneditoronline.org") - Online editor to view, edit, and format JSON.
 - [OpenProject](https://www.openproject.org "OpenProject") - Open source project management software. Powerful, easy-to-use, free.
