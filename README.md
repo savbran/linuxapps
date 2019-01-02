@@ -19,7 +19,6 @@ What is worth using in the long term on a linux pc...
       - [edicola 8-bit by Sovox](http://specialprogramsipe.altervista.org/default.php "specialprogramsipe.altervista.org/default.php")
       - [edicolac64.com](http://www.edicolac64.com/public/index.php "www.edicolac64.com/public/index.php")
       - [Software Library: C64](https://archive.org/details/softwarelibrary_c64 "archive.org/details/softwarelibrary_c64") - Internet Archive repository of more than 32000 playable Commodore 64 games and programs, online.
-
   - DosBox
     - [DBGL](http://members.quicknet.nl/blankendaalr/dbgl "DOSBox Game Launcher") - Multi-platform frontend for DOSBox.
     - [DOSBox](http://www.dosbox.com "www.dosbox.com") - DOS-emulator that uses the SDL-library.
