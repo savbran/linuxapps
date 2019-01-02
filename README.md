@@ -1,6 +1,6 @@
 # ~ Personal list of useful linux software ~
 
-What is worth using in the long term on a linux pc...
+What is worth using in the long run on a linux pc...
 
 ## Games
 
