@@ -1,8 +1,9 @@
-# ~ Personal list of useful linux software ~
+## ~ Linux applications ~
 What is worth using in the long run on a linux pc...
+
 ![icons preview](https://raw.githubusercontent.com/savbran/linuxapps/master/icons_preview.jpg)
 
-## Games
+#### Games
 
 - [Dust Racing 2D](http://juzzlin.github.io/DustRacing2D "juzzlin.github.io/DustRacing2D") - Cross-platform 2D racing game (OpenGL).
 - [Frogatto](https://frogatto.com "frogatto.com") - Action-adventure game, starring a certain quixotic frog.
@@ -26,7 +27,7 @@ What is worth using in the long run on a linux pc...
     - [QMC2](http://qmc2.batcom-it.net "qmc2.batcom-it.net") - Qt based multi-platform GUI front end for MAME and SDLMAME.
     - [SDLMAME](http://sdlmame.wallyweek.org "sdlmame.wallyweek.org") - Port of the popular [MAME™](http://mamedev.org "Multiple Arcade Machine Emulator™") emulator to the SDL library.
 
-## Graphics
+#### Graphics
 
 - 2D
   - [Alchemy](http://al.chemy.org "al.chemy.org") - Explore and experiment with alternative ways of drawing.
@@ -43,7 +44,7 @@ What is worth using in the long run on a linux pc...
   - [Gcolor2](http://gcolor2.sourceforge.net "color2.sourceforge.net") - GTK+2 color selector.
   - [Gpick](http://www.gpick.org "www.gpick.org") - Advanced color picker and palette editing tool.
 
-## Internet
+#### Internet
 
 - [Firefox](https://www.mozilla.org "www.mozilla.org") - Web browser developed by Mozilla Foundation.
   Plugins:
@@ -52,7 +53,7 @@ What is worth using in the long run on a linux pc...
 - [JDownloader](http://jdownloader.org "jdownloader.org") - JDownloader is a free, open-source download management tool
 - [qBittorrent](https://www.qbittorrent.org "www.qbittorrent.org") - Bittorrent client programmed in C++ / Qt that uses libtorrent and useful plugins.
 
-## Multimedia
+#### Multimedia
 
 - Audio
   - [Audacity](http://www.audacityteam.org "Audacity") - Audio software for multi-track recording and editing.
@@ -68,13 +69,22 @@ What is worth using in the long run on a linux pc...
   - [OBS Studio](https://obsproject.com "OBS Studio") - Video recording and live streaming.
   - [VLC media player](https://www.videolan.org/vlc/index.html "VLC media player") - Multimedia player and framework that plays most multimedia files.
 
-## Office
+#### Office
 
 - [LibreOffice](https://www.libreoffice.org "LibreOffice") - A powerful office suite.
 - [Master PDF Editor](https://code-industry.net/masterpdfeditor/ "Master PDF Editor") - Multifunctional PDF Editor.
 - [Scribus](https://www.scribus.net "Scribus") - Page layout and desktop publishing for Linux.
 
-## School and Science
+#### Server
+
+- [Apache HTTP Server](https://httpd.apache.org "httpd.apache.org") - HTTP (Web) server.
+- [Discourse](https://www.discourse.org "discourse.org") - Modern discussion platform: forum, long-form chat room, mailing list and more!
+- [Jitsi](https://jitsi.org "jitsi.org") - Build and deploy secure videoconferencing solutions.
+- [Nextcloud](https://nextcloud.com "nextcloud.com") - Suite of client-server software for creating and using file hosting services.
+- [Wiki.js](https://wiki.js.org "wiki.js.org") - An open source, modern and powerful wiki app built on Node.js, Git and Markdown.
+
+
+#### School and Science
 
 - Astronomy
   - [Celestia](https://celestia.space "celestia.space") - Real-time 3D visualization of space.
@@ -83,7 +93,7 @@ What is worth using in the long run on a linux pc...
   - [GeoGebra](https://www.geogebra.org "geogebra.org") - Solve equations, graph functions, create constructions, analyze data, explore 3D math!
   - [Qalculate!](http://qalculate.github.io "qalculate.github.io") - The ultimate desktop calculator.
 
-## Software development
+#### Software development
 
 - **[Eclipse](https://www.eclipse.org "Eclipse")** - Cross-plattform and cross-language IDE with powerful tools.
   - [ANSI Escape in Console plugin](https://marketplace.eclipse.org/content/ansi-escape-console "https://marketplace.eclipse.org/content/ansi-escape-console") - This plugin interprets the ANSI escape sequences to color the console output. Useful to correctly read Cucumber Test results output on Eclipse Console. It can be installed from Eclipse Marketplace.
@@ -100,34 +110,26 @@ What is worth using in the long run on a linux pc...
 - [OpenProject](https://www.openproject.org "OpenProject") - Open source project management software. Powerful, easy-to-use, free.
 - [Restlet Client](https://restlet.com/modules/client/ "https://restlet.com/modules/client/") - Test & Automate your REST APIs (in Chrome web browser or standalone)
 - **[Python](https://www.python.org "https://www.python.org")** packages:
+  - [autopep8](https://pypi.org/project/autopep8/ "https://pypi.org/project/autopep8/") - A tool that automatically formats Python code to conform to the PEP 8 style guide.
   - [numpydoc](https://pypi.org/project/numpydoc/ "https://pypi.org/project/numpydoc/") - Sphinx extension to support docstrings in Numpy format.
   - [pylint](https://www.pylint.org/ "https://www.pylint.org") - A tool that checks for errors in Python code, tries to enforce a coding standard and looks for code smells.
   - [rope](https://pypi.org/project/rope/ "https://pypi.org/project/rope/") - A python refactoring library.
-  - [autopep8](https://pypi.org/project/autopep8/ "https://pypi.org/project/autopep8/") - A tool that automatically formats Python code to conform to the PEP 8 style guide.
   - [yapf](https://github.com/google/yapf "https://github.com/google/yapf") - A formatter for Python files (preferred formattig style: google or pep8).
 - **[Visual Studio Code](https://code.visualstudio.com "Visual Studio Code")** - A lightweight but powerful source code editor.
   - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer "https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer") - An extension for colorizing matching brackets and code blocks.
+  - Color Themes
+    - [One Dark Pro](https://binaryify.github.io/OneDark-Pro/#/ "https://binaryify.github.io/OneDark-Pro/#/") - Atom's iconic One Dark theme for Visual Studio Code.
+    - [Super One Dark](https://marketplace.visualstudio.com/items?itemName=seansassenrath.vscode-theme-superonedark "marketplace.visualstudio.com/items?itemName=seansassenrath.vscode-theme-superonedark") - Atom One Dark Theme with darker background color.
   - [Code Outline](https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline "https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline") - A code outline tree provider for VSCode.
-  - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens") - Supercharge the Git capabilities built into Visual Studio Code.
   - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint "https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint") - Integrates ESLint (pluggable linting utility for JavaScript and JSX) into VS Code.
+  - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens") - Supercharge the Git capabilities built into Visual Studio Code.
   - [Insert Numbers](https://marketplace.visualstudio.com/items?itemName=Asuka.insertnumbers "https://marketplace.visualstudio.com/items?itemName=Asuka.insertnumbers") - Insert increasing numbers.
   - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced "https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced") - Markdown Preview Enhanced ported to vscode.
   - [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff "https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff") - Compare (diff) text selections within a file, across files, or to the clipboard.
   - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode "https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode") - VS Code package to format your JavaScript / TypeScript / CSS using Prettier.
   - [Python Extension Pack](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack "https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack") - Popular Visual Studio Code extensions for Python.
-  - Color Themes
-    - [One Dark Pro](https://binaryify.github.io/OneDark-Pro/#/ "https://binaryify.github.io/OneDark-Pro/#/") - Atom's iconic One Dark theme for Visual Studio Code.
-    - [Super One Dark](https://marketplace.visualstudio.com/items?itemName=seansassenrath.vscode-theme-superonedark "marketplace.visualstudio.com/items?itemName=seansassenrath.vscode-theme-superonedark") - Atom One Dark Theme with darker background color.
 
-## Server
-
-- [Apache HTTP Server](https://httpd.apache.org "httpd.apache.org") - HTTP (Web) server.
-- [Discourse](https://www.discourse.org "discourse.org") - Modern discussion platform: forum, long-form chat room, mailing list and more!
-- [Jitsi](https://jitsi.org "jitsi.org") - Build and deploy secure videoconferencing solutions.
-- [Nextcloud](https://nextcloud.com "nextcloud.com") - Suite of client-server software for creating and using file hosting services.
-- [Wiki.js](https://wiki.js.org "wiki.js.org") - An open source, modern and powerful wiki app built on Node.js, Git and Markdown.
-
-## System
+#### System
 
 - Antivirus
   - [ClamAV](https://www.clamav.net "ClamAV") - Antivirus engine for detecting trojans, viruses, malware & other malicious threats.
@@ -141,14 +143,14 @@ What is worth using in the long run on a linux pc...
   - [screenfetch](https://github.com/KittyKatt/screenFetch "screenfetch") - Fetches system/theme information in terminal for Linux desktop screenshots.
   - [youtube-dl](https://rg3.github.io/youtube-dl "youtube-dl") - A command-line program to download videos from YouTube.com and a few more sites.
 - Customizations
+  - [FontManager](https://github.com/FontManager/master "github.com/FontManager/master") - A simple font management application for GTK+ Desktop Environments.
   - Fonts
-    - [FontManager](https://github.com/FontManager/master "github.com/FontManager/master") - A simple font management application for GTK+ Desktop Environments.
     - [Droid Sans Mono](https://www.fontsquirrel.com/fonts/droid-sans-mono "www.fontsquirrel.com/fonts/droid-sans-mono") - Droid is a font family created by Ascender Corporation for use by the Open Handset Alliance platform, Android.
-    - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro "github.com/adobe-fonts/source-code-pro") - Monospaced font family for user interface and coding environments.
-    - [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts "github.com/ryanoasis/nerd-fonts") - A set of fonts for programmers and nerds (in Arch linux there is the package nerd-fonts).
     - [Fantasque Sans Mono](https://fontlibrary.org/en/font/fantasque-sans-mono "fontlibrary.org/en/font/fantasque-sans-mono") - Programming font, designed with functionality in mind.
     - [Hack](https://sourcefoundry.org/hack "sourcefoundry.org/hack") - A typeface designed for source code.
     - [Hermit](https://pcaro.es/p/hermit "pcaro.es/p/hermit") - Monospace font designed to be clear, pragmatic and very readable. For programming.
+    - [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts "github.com/ryanoasis/nerd-fonts") - A set of fonts for programmers and nerds (in Arch linux there is the package nerd-fonts).
+    - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro "github.com/adobe-fonts/source-code-pro") - Monospaced font family for user interface and coding environments.
   - Themes
     - [Adapta-gtk-theme](https://github.com/adapta-project/adapta-gtk-theme "github.com/adapta-project/adapta-gtk-theme") - GTK Theme based on Material Design Guidelines.
     - [Arc theme](https://github.com/horst3180/arc-theme "github.com/horst3180/arc-theme") - A clean, readable theme supporting desktop environments like GNOME, XFCE, MATE, etc. There's also a variant with greenish colors (Arc Maia) made by Manjaro Linux team.
