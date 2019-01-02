@@ -3,14 +3,15 @@ What is worth using in the long run on a linux pc...
 
 ![icons preview](https://raw.githubusercontent.com/savbran/linuxapps/master/icons_preview.jpg)
 
-#### Games
+#### Gaming
+- **Games**
 
-- [Dust Racing 2D](http://juzzlin.github.io/DustRacing2D "juzzlin.github.io/DustRacing2D") - Cross-platform 2D racing game (OpenGL).
-- [Frogatto](https://frogatto.com "frogatto.com") - Action-adventure game, starring a certain quixotic frog.
-- [SuperTuxKart](https://supertuxkart.net "supertuxkart.net") - 3D arcade racer with a variety characters, tracks, and modes to play.
-- [Tales of Maj'Eyal](https://te4.org "te4.org") - Roguelike RPG fantasy game featuring turn-based combat and character building.
-- [Tanks of Freedom](http://tof.p1x.in "tof.p1x.in") - Indie Turn Based Strategy in Isometric Pixel Art.
-- **Emulators, GUI front-ends**
+  - [Dust Racing 2D](http://juzzlin.github.io/DustRacing2D "juzzlin.github.io/DustRacing2D") - Cross-platform 2D racing game (OpenGL).
+  - [Frogatto](https://frogatto.com "frogatto.com") - Action-adventure game, starring a certain quixotic frog.
+  - [SuperTuxKart](https://supertuxkart.net "supertuxkart.net") - 3D arcade racer with a variety characters, tracks, and modes to play.
+  - [Tales of Maj'Eyal](https://te4.org "te4.org") - Roguelike RPG fantasy game featuring turn-based combat and character building.
+  - [Tanks of Freedom](http://tof.p1x.in "tof.p1x.in") - Indie Turn Based Strategy in Isometric Pixel Art.
+- **Emulators** - old gaming emulators and front-ends
   - C64
     - [jGameBase](https://jgamebase.sourceforge.io "jgamebase.sourceforge.io") - Retro-gaming emu­lator front­end and game data­base utility (for C64 and other emulators).
     - [VICE](http://vice-emu.sourceforge.net "vice-emu.sourceforge.net") - Cross-platform emulator for old 8-bit computers: C64, C64DTV, C128, VIC20.
@@ -20,10 +21,10 @@ What is worth using in the long run on a linux pc...
       - [edicola 8-bit by Sovox](http://specialprogramsipe.altervista.org/default.php "specialprogramsipe.altervista.org/default.php")
       - [edicolac64.com](http://www.edicolac64.com/public/index.php "www.edicolac64.com/public/index.php")
       - [Software Library: C64](https://archive.org/details/softwarelibrary_c64 "archive.org/details/softwarelibrary_c64") - Internet Archive repository of more than 32000 playable Commodore 64 games and programs, online.
-  - DosBox
+  - DosBox - dos emulator used to play old pc dos games and apps
     - [DBGL](http://members.quicknet.nl/blankendaalr/dbgl "DOSBox Game Launcher") - Multi-platform frontend for DOSBox.
     - [DOSBox](http://www.dosbox.com "www.dosbox.com") - DOS-emulator that uses the SDL-library.
-  - M.A.M.E.
+  - M.A.M.E. - Multiple Arcade Machine Emulator
     - [QMC2](http://qmc2.batcom-it.net "qmc2.batcom-it.net") - Qt based multi-platform GUI front end for MAME and SDLMAME.
     - [SDLMAME](http://sdlmame.wallyweek.org "sdlmame.wallyweek.org") - Port of the popular [MAME™](http://mamedev.org "Multiple Arcade Machine Emulator™") emulator to the SDL library.
 
