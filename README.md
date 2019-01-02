@@ -1,6 +1,6 @@
 # ~ Personal list of useful linux software ~
-
 What is worth using in the long run on a linux pc...
+![icons preview](https://raw.githubusercontent.com/savbran/linuxapps/master/icons_preview.jpg)
 
 ## Games
 
