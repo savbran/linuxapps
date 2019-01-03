@@ -48,6 +48,7 @@ What is worth using in the long run on a linux pc...
 
 #### Internet
 
+- [Chromium](https://www.chromium.org/Home "www.chromium.org/Home") - An open-source browser project that aims to build a safer, faster, and more stable way for all Internet users to experience the web.
 - [Firefox](https://www.mozilla.org "www.mozilla.org") - Web browser developed by Mozilla Foundation.
   Plugins:
   - [Feedbro](https://addons.mozilla.org/it/firefox/addon/feedbroreader "https://addons.mozilla.org/it/firefox/addon/feedbroreader") - Tree-based RSS feed navigation with folders and drag & drop support.
