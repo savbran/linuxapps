@@ -152,6 +152,7 @@ What is worth using in the long run on a linux pc...
     - [Fantasque Sans Mono](https://fontlibrary.org/en/font/fantasque-sans-mono "fontlibrary.org/en/font/fantasque-sans-mono") - Programming font, designed with functionality in mind.
     - [Hack](https://sourcefoundry.org/hack "sourcefoundry.org/hack") - A typeface designed for source code.
     - [Hermit](https://pcaro.es/p/hermit "pcaro.es/p/hermit") - Monospace font designed to be clear, pragmatic and very readable. For programming.
+    - [Liberation Mono](https://fontlibrary.org/it/font/liberation-mono "fontlibrary.org/it/font/liberation-mono") - Liberation Mono aims at metric compatibility with Courier New. It is sponsored by Red Hat.
     - [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts "github.com/ryanoasis/nerd-fonts") - A set of fonts for programmers and nerds (in Arch linux there is the package nerd-fonts).
     - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro "github.com/adobe-fonts/source-code-pro") - Monospaced font family for user interface and coding environments.
   - Themes
