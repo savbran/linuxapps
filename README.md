@@ -50,9 +50,10 @@ What is worth using in the long run on a linux pc...
 
 - [Chromium](https://www.chromium.org/Home "www.chromium.org/Home") - An open-source browser project that aims to build a safer, faster, and more stable way for all Internet users to experience the web.
 - [Firefox](https://www.mozilla.org "www.mozilla.org") - Web browser developed by Mozilla Foundation.
-  Plugins:
-  - [Feedbro](https://addons.mozilla.org/it/firefox/addon/feedbroreader "https://addons.mozilla.org/it/firefox/addon/feedbroreader") - Tree-based RSS feed navigation with folders and drag & drop support.
-  - [Video DownloadHelper](https://addons.mozilla.org/it/firefox/addon/video-downloadhelper "https://addons.mozilla.org/it/firefox/addon/video-downloadhelper") - Download and convert Web videos from hundreds of YouTube-like sites.
+  - [Feedbro plugin](https://addons.mozilla.org/it/firefox/addon/feedbroreader "https://addons.mozilla.org/it/firefox/addon/feedbroreader") - Tree-based RSS feed navigation with folders and drag & drop support.
+  - [Flagfox plugin](https://addons.mozilla.org/it/firefox/addon/flagfox "https://addons.mozilla.org/it/firefox/addon/flagfox") - Button for RSS feed subscription on url bar.
+  - [S3.Translator plugin](http://www.s3blog.org/s3translator.html "www.s3blog.org/s3translator.html") - The power of Google Translate’s automatic translations to your browser!
+  - [Video DownloadHelper plugin](https://addons.mozilla.org/it/firefox/addon/video-downloadhelper "https://addons.mozilla.org/it/firefox/addon/video-downloadhelper") - Download and convert Web videos from hundreds of YouTube-like sites.
 - [JDownloader](http://jdownloader.org "jdownloader.org") - JDownloader is a free, open-source download management tool
 - [qBittorrent](https://www.qbittorrent.org "www.qbittorrent.org") - Bittorrent client programmed in C++ / Qt that uses libtorrent and useful plugins.
 
