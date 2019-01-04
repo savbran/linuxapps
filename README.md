@@ -132,6 +132,7 @@ What is worth using in the long run on a linux pc...
   - [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff "https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff") - Compare (diff) text selections within a file, across files, or to the clipboard.
   - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode "https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode") - VS Code package to format your JavaScript / TypeScript / CSS using Prettier.
   - [Python Extension Pack](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack "https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack") - Popular Visual Studio Code extensions for Python.
+- [Typora](https://typora.io/ "typora.io") - Minimalistic Markdown editor with good reference documentation (app-menu> Help> Markdown Reference).
 
 #### System
 
