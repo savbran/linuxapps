@@ -3,9 +3,8 @@ What is worth using in the long run on a linux pc...
 
 ![icons preview](https://raw.githubusercontent.com/savbran/linuxapps/master/icons_preview.jpg)
 
-#### Gaming
+### Gaming
 - **Games**
-
   - [Dust Racing 2D](http://juzzlin.github.io/DustRacing2D "juzzlin.github.io/DustRacing2D") - Cross-platform 2D racing game (OpenGL).
   - [Frogatto](https://frogatto.com "frogatto.com") - Action-adventure game, starring a certain quixotic frog.
   - [Seven Kingdoms: Ancient Adversaries](https://7kfans.com/ "7kfans.com") - Seven Kingdoms is a series of "fantasy real-time strategy" computer games.
@@ -29,7 +28,7 @@ What is worth using in the long run on a linux pc...
     - [QMC2](http://qmc2.batcom-it.net "qmc2.batcom-it.net") - Qt based multi-platform GUI front end for MAME and SDLMAME.
     - [SDLMAME](http://sdlmame.wallyweek.org "sdlmame.wallyweek.org") - Port of the popular [MAME™](http://mamedev.org "Multiple Arcade Machine Emulator™") emulator to the SDL library.
 
-#### Graphics
+### Graphics
 
 - 2D
   - [Alchemy](http://al.chemy.org "al.chemy.org") - Explore and experiment with alternative ways of drawing.
@@ -46,7 +45,7 @@ What is worth using in the long run on a linux pc...
   - [Gcolor2](http://gcolor2.sourceforge.net "color2.sourceforge.net") - GTK+2 color selector.
   - [Gpick](http://www.gpick.org "www.gpick.org") - Advanced color picker and palette editing tool.
 
-#### Internet
+### Internet
 
 - [Chromium](https://www.chromium.org/Home "www.chromium.org/Home") - An open-source browser project that aims to build a safer, faster, and more stable way for all Internet users to experience the web.
 - [Firefox](https://www.mozilla.org "www.mozilla.org") - Web browser developed by Mozilla Foundation.
@@ -57,7 +56,7 @@ What is worth using in the long run on a linux pc...
 - [JDownloader](http://jdownloader.org "jdownloader.org") - JDownloader is a free, open-source download management tool
 - [qBittorrent](https://www.qbittorrent.org "www.qbittorrent.org") - Bittorrent client programmed in C++ / Qt that uses libtorrent and useful plugins.
 
-#### Multimedia
+### Multimedia
 
 - Audio
   - [Audacity](http://www.audacityteam.org "Audacity") - Audio software for multi-track recording and editing.
@@ -73,13 +72,13 @@ What is worth using in the long run on a linux pc...
   - [OBS Studio](https://obsproject.com "OBS Studio") - Video recording and live streaming.
   - [VLC media player](https://www.videolan.org/vlc/index.html "VLC media player") - Multimedia player and framework that plays most multimedia files.
 
-#### Office
+### Office
 
 - [LibreOffice](https://www.libreoffice.org "LibreOffice") - A powerful office suite.
 - [Master PDF Editor](https://code-industry.net/masterpdfeditor/ "Master PDF Editor") - Multifunctional PDF Editor.
 - [Scribus](https://www.scribus.net "Scribus") - Page layout and desktop publishing for Linux.
 
-#### Server
+### Server
 
 - [Apache HTTP Server](https://httpd.apache.org "httpd.apache.org") - HTTP (Web) server.
 - [Discourse](https://www.discourse.org "discourse.org") - Modern discussion platform: forum, long-form chat room, mailing list and more!
@@ -88,7 +87,7 @@ What is worth using in the long run on a linux pc...
 - [Wiki.js](https://wiki.js.org "wiki.js.org") - An open source, modern and powerful wiki app built on Node.js, Git and Markdown.
 
 
-#### School and Science
+### School and Science
 
 - Astronomy
   - [Celestia](https://celestia.space "celestia.space") - Real-time 3D visualization of space.
@@ -97,7 +96,7 @@ What is worth using in the long run on a linux pc...
   - [GeoGebra](https://www.geogebra.org "geogebra.org") - Solve equations, graph functions, create constructions, analyze data, explore 3D math!
   - [Qalculate!](http://qalculate.github.io "qalculate.github.io") - The ultimate desktop calculator.
 
-#### Software development
+### Software development
 
 - **[Eclipse](https://www.eclipse.org "Eclipse")** - Cross-plattform and cross-language IDE with powerful tools.
   - [ANSI Escape in Console plugin](https://marketplace.eclipse.org/content/ansi-escape-console "https://marketplace.eclipse.org/content/ansi-escape-console") - This plugin interprets the ANSI escape sequences to color the console output. Useful to correctly read Cucumber Test results output on Eclipse Console. It can be installed from Eclipse Marketplace.
@@ -134,7 +133,7 @@ What is worth using in the long run on a linux pc...
   - [Python Extension Pack](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack "https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack") - Popular Visual Studio Code extensions for Python.
 - [Typora](https://typora.io/ "typora.io") - Minimalistic Markdown editor with good reference documentation (app-menu> Help> Markdown Reference).
 
-#### System
+### System
 
 - Antivirus
   - [ClamAV](https://www.clamav.net "ClamAV") - Antivirus engine for detecting trojans, viruses, malware & other malicious threats.
