@@ -30,7 +30,7 @@ What is worth using in the long run on a linux pc...
 
 ### Graphics
 
-- 2D
+- **2D**
   - [Alchemy](http://al.chemy.org "al.chemy.org") - Explore and experiment with alternative ways of drawing.
   - [Aseprite](https://www.aseprite.org "www.aseprite.org") - Animated sprite editor & pixel art tool.
   - [Evolvotron](http://www.bottlenose.net/share/evolvotron "www.bottlenose.net/share/evolvotron") - An interactive "generative art" application for Linux.
@@ -38,10 +38,10 @@ What is worth using in the long run on a linux pc...
   - [Gravit Designer](https://www.designer.io "www.designer.io") - A cross-platform design tool.
   - [Krita](https://krita.org "krita.org") - A professional FREE and open source painting program.
   - [Inkscape](https://inkscape.org "inkscape.org") - Open-source vector graphics editor.
-- 3D
+- **3D**
   - [Blender](https://www.blender.org "www.blender.org") - 3D creation suite.
   - [FreeCAD](https://freecadweb.org "freecadweb.org") - A parametric 3D modeler made primarily to design real-life objects of any size.
-- Color tools
+- **Color tools**
   - [Gcolor2](http://gcolor2.sourceforge.net "color2.sourceforge.net") - GTK+2 color selector.
   - [Gpick](http://www.gpick.org "www.gpick.org") - Advanced color picker and palette editing tool.
 
@@ -58,7 +58,7 @@ What is worth using in the long run on a linux pc...
 
 ### Multimedia
 
-- Audio
+- **Audio**
   - [Audacity](http://www.audacityteam.org "Audacity") - Audio software for multi-track recording and editing.
   - [Clementine](https://www.clementine-player.org "Clementine") - Modern music player and library organizer.
   - [Flacon](http://flacon.github.io "Flacon") - Extracts individual tracks from one big audio file (entire album).
@@ -66,7 +66,7 @@ What is worth using in the long run on a linux pc...
   - [Lollypop](https://wiki.gnome.org/Apps/Lollypop "Lollypop") - Modern muisc player and library organizer.
   - [MusicBrainz Picard](https://picard.musicbrainz.org "MusicBrainz Picard") - Music tagger that recovers music info from internet.
   - [PulseEffects](https://github.com/wwmm/pulseeffects "https://github.com/wwmm/pulseeffects") - Audio effects for Pulseaudio applications (equalizer, autogain and a lot of other effects).
-- Video
+- **Video**
   - [Kdenlive](https://kdenlive.org "Kdenlive") - KDE Non-Linear Video Editor.
   - [MPV](https://mpv.io "MPV") - Cross-platform media player with GPU video decoding.
   - [OBS Studio](https://obsproject.com "OBS Studio") - Video recording and live streaming.
@@ -89,10 +89,10 @@ What is worth using in the long run on a linux pc...
 
 ### School and Science
 
-- Astronomy
+- **Astronomy**
   - [Celestia](https://celestia.space "celestia.space") - Real-time 3D visualization of space.
   - [Stellarium](http://stellarium.org "stellarium.org") - Solve equations, graph functions, create constructions, analyze data, explore 3D math!
-- Math
+- **Math**
   - [GeoGebra](https://www.geogebra.org "geogebra.org") - Solve equations, graph functions, create constructions, analyze data, explore 3D math!
   - [Qalculate!](http://qalculate.github.io "qalculate.github.io") - The ultimate desktop calculator.
 
@@ -135,18 +135,18 @@ What is worth using in the long run on a linux pc...
 
 ### System
 
-- Antivirus
+- **Antivirus**
   - [ClamAV](https://www.clamav.net "ClamAV") - Antivirus engine for detecting trojans, viruses, malware & other malicious threats.
   - [Rootkit Hunter](http://rkhunter.sourceforge.net "Rootkit Hunter") - Checks computers running UNIX (clones) for the presence of rootkits and other unwanted tools.
-- Arch Linux related
+- **Arch Linux related**
   - [yay](https://github.com/Jguer/yay "https://github.com/Jguer/yay") - An AUR Helper written in Go.
-- Backup
+- **Backup**
   - [luckyBackup](http://luckybackup.sourceforge.net "luckyBackup") - App to backup and/or synchronize any directories with the power of rsync.
-- Command line
+- **Command line**
   - [OpenSSH](https://www.openssh.com "OpenSSH") - The premier connectivity tool for remote login with the SSH protocol (ssh, sftp).
   - [screenfetch](https://github.com/KittyKatt/screenFetch "screenfetch") - Fetches system/theme information in terminal for Linux desktop screenshots.
   - [youtube-dl](https://rg3.github.io/youtube-dl "youtube-dl") - A command-line program to download videos from YouTube.com and a few more sites.
-- Customizations
+- **Customizations**
   - [FontManager](https://github.com/FontManager/master "github.com/FontManager/master") - A simple font management application for GTK+ Desktop Environments.
   - Fonts
     - [Droid Sans Mono](https://www.fontsquirrel.com/fonts/droid-sans-mono "www.fontsquirrel.com/fonts/droid-sans-mono") - Droid is a font family created by Ascender Corporation for use by the Open Handset Alliance platform, Android.
