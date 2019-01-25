@@ -161,6 +161,7 @@ What is worth using in the long run on a linux pc...
     - [Adapta-gtk-theme](https://github.com/adapta-project/adapta-gtk-theme "github.com/adapta-project/adapta-gtk-theme") - GTK Theme based on Material Design Guidelines.
     - [Arc theme](https://github.com/horst3180/arc-theme "github.com/horst3180/arc-theme") - A clean, readable theme supporting desktop environments like GNOME, XFCE, MATE, etc. There's also a variant with greenish colors (Arc Maia) made by Manjaro Linux team.
     - [Papirus icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme "github.com/PapirusDevelopmentTeam/papirus-icon-theme") - SVG icon theme for Linux, based on Paper Icon Set, with more stuff.
+    - [Plane icon theme](https://github.com/wfpaisa/plane-icon-theme "https://github.com/wfpaisa/plane-icon-theme") - Modern icon theme for gnome linux versions.
 - **Utilities**
   - [QDirStat](https://github.com/shundhammer/qdirstat "github.com/shundhammer/qdirstat") - Graphical application to show where your disk space has gone and to help you to clean it up.
   - [Variety](https://github.com/varietywalls/variety "github.com/varietywalls/variety") - Beautiful and quick wallpaper manager/changer for Linux systems. It supports numerous desktops and wallpaper sources, including local files and online services: Flickr, Wallhaven, Unsplash, and more.
