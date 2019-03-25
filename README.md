@@ -8,6 +8,7 @@ What is worth using in the long run on a linux pc...
   - [Dust Racing 2D](http://juzzlin.github.io/DustRacing2D "juzzlin.github.io/DustRacing2D") - Cross-platform 2D racing game (OpenGL).
   - [Frogatto](https://frogatto.com "frogatto.com") - Action-adventure game, starring a certain quixotic frog.
   - [Gweled](http://gweled.org "gweled.org") - Free version of the popular puzzle game called Bejeweled or Diamond Mine.
+  - [Price Of Persia Original Trilogy](https://www.popot.org "popot.org") - A classic platform and adventure game ported to many systems.
   - [Seven Kingdoms: Ancient Adversaries](https://7kfans.com/ "7kfans.com") - Seven Kingdoms is a series of "fantasy real-time strategy" computer games.
   - [SuperTuxKart](https://supertuxkart.net "supertuxkart.net") - 3D arcade racer with a variety characters, tracks, and modes to play.
   - [Tales of Maj'Eyal](https://te4.org "te4.org") - Roguelike RPG fantasy game featuring turn-based combat and character building.
