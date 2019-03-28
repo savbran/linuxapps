@@ -124,6 +124,7 @@ What is worth using in the long run on a linux pc...
   - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer "https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer") - An extension for colorizing matching brackets and code blocks.
   - Color Themes
     - [One Dark Pro](https://binaryify.github.io/OneDark-Pro/#/ "https://binaryify.github.io/OneDark-Pro/#/") - Atom's iconic One Dark theme for Visual Studio Code.
+    - [Quiet Light+ Theme](https://marketplace.visualstudio.com/items?itemName=ban.quietlight-plus "marketplace.visualstudio.com/items?itemName=ban.quietlight-plus") - A good light theme for vs code, tuned a Bit "Quiet Light Theme"
     - [Super One Dark](https://marketplace.visualstudio.com/items?itemName=seansassenrath.vscode-theme-superonedark "marketplace.visualstudio.com/items?itemName=seansassenrath.vscode-theme-superonedark") - Atom One Dark Theme with darker background color.
   - [Code Outline](https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline "https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline") - A code outline tree provider for VSCode.
   - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint "https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint") - Integrates ESLint (pluggable linting utility for JavaScript and JSX) into VS Code.
