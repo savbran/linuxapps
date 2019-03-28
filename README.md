@@ -111,6 +111,7 @@ What is worth using in the long run on a linux pc...
   - [STS plugin](https://marketplace.eclipse.org/content/spring-tools-aka-spring-ide-and-spring-tool-suite "Spring Tool Suite") - Environment for building Spring-powered enterprise applications.
   - [WTP plugin](https://marketplace.eclipse.org/content/eclipse-web-developer-tools-0 "Web Tools Platform") - Web Developer Tools. Includes HTML, CSS, JSON, JavaScript, XML.
 - [Editor.md](https://pandao.github.io/editor.md/en.html "pandao.github.io/editor.md/en.html") - Online Markdown editor.
+- **[Java](https://docs.oracle.com/en/java/ "docs.oracle.com/en/java/")** libraries: coming soon...
 - [JSON Editor Online](https://jsoneditoronline.org "jsoneditoronline.org") - Online editor to view, edit, and format JSON.
 - [OpenProject](https://www.openproject.org "OpenProject") - Open source project management software. Powerful, easy-to-use, free.
 - [Restlet Client](https://restlet.com/modules/client/ "https://restlet.com/modules/client/") - Test & Automate your REST APIs (in Chrome/Chromium web browser or standalone)
