@@ -10,7 +10,7 @@ What is worth using in the long run on a linux pc...
   - [Frogatto](https://frogatto.com "frogatto.com") - Action-adventure game, starring a certain quixotic frog.
   - [Gweled](http://gweled.org "gweled.org") - Free version of the popular puzzle game called Bejeweled or Diamond Mine.
   - [Klickety](https://kde.org/applications/games/klickety "kde.org/applications/games/klickety") - A simple, yet challenging color matching game.
-  - [Price Of Persia Original Trilogy](https://www.popot.org "popot.org") - A classic platform and adventure game ported to many systems.
+  - [Price Of Persia Original Trilogy](https://www.popot.org "popot.org") - A classic platform and adventure game ported to many systems. For linux, it's possible to download the sdlpop here https://www.popot.org/get_the_games.php?game=SDLPoP
   - [Seven Kingdoms: Ancient Adversaries](https://7kfans.com/ "7kfans.com") - Seven Kingdoms is a series of "fantasy real-time strategy" computer games.
   - [SuperTuxKart](https://supertuxkart.net "supertuxkart.net") - 3D arcade racer with a variety characters, tracks, and modes to play.
   - [Tales of Maj'Eyal](https://te4.org "te4.org") - Roguelike RPG fantasy game featuring turn-based combat and character building.
