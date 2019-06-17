@@ -81,6 +81,7 @@ What is worth using in the long run on a linux pc...
 - [LibreOffice](https://www.libreoffice.org "LibreOffice") - A powerful office suite.
 - [Master PDF Editor](https://code-industry.net/masterpdfeditor/ "Master PDF Editor") - Multifunctional PDF Editor.
 - [Scribus](https://www.scribus.net "Scribus") - Page layout and desktop publishing for Linux.
+- [Xournal](http://xournal.sourceforge.net/ "Xournal") - Application for notetaking, sketching, keeping a journal using a stylus. Very useful also for PDF editing and save.
 
 ### Server
 
