@@ -114,6 +114,12 @@ What is worth using in the long run on a linux pc...
   - [STS plugin](https://marketplace.eclipse.org/content/spring-tools-aka-spring-ide-and-spring-tool-suite "Spring Tool Suite") - Environment for building Spring-powered enterprise applications.
   - [WTP plugin](https://marketplace.eclipse.org/content/eclipse-web-developer-tools-0 "Web Tools Platform") - Web Developer Tools. Includes HTML, CSS, JSON, JavaScript, XML.
 - [Editor.md](https://pandao.github.io/editor.md/en.html "pandao.github.io/editor.md/en.html") - Online Markdown editor.
+- **[IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/ "https://www.jetbrains.com/idea/")** - Capable and ergonomic IDE for JVM.
+  - Cucumber for Java plugin - Enables Cucumber support with step definitions written in Java.
+  - Gherkin - Provides support for Gherkin language.
+  - String Manipulation - Provides actions for text manipulations: Switch case (camelCase, kebab-lowercase, KEBAB-UPPERCASE, snake_case, SCREAMING_SNAKE_CASE, dot.case, words lowercase, First word capitalized, Words Capitalized, PascalCase) and other functions.
+  - Python Community Edition - The feature set of the plugin corresponding to PyCharm IDE Community Edition.
+
 - **[Java](https://docs.oracle.com/en/java/ "docs.oracle.com/en/java/")** libraries: coming soon...
 - [JSON Editor Online](https://jsoneditoronline.org "jsoneditoronline.org") - Online editor to view, edit, and format JSON.
 - [OpenProject](https://www.openproject.org "OpenProject") - Open source project management software. Powerful, easy-to-use, free.
