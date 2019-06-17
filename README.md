@@ -6,12 +6,14 @@ What is worth using in the long run on a linux pc...
 ### Gaming
 - **Games**
   - [Blockout II](http://www.blockout.net/blockout2 "www.blockout.net/blockout2") - 3D Block dropping game, that greatly exercises the 3d spatial capabilities of the human brain.
+  - [Boulder Caves](https://github.com/irmen/bouldercaves "github.com/irmen/bouldercaves") - A Boulder Dash clone in pure python. Includes a cave editor so you can make your own game!
   - [Dust Racing 2D](http://juzzlin.github.io/DustRacing2D "juzzlin.github.io/DustRacing2D") - Cross-platform 2D racing game (OpenGL).
   - [Frogatto](https://frogatto.com "frogatto.com") - Action-adventure game, starring a certain quixotic frog.
   - [Gweled](http://gweled.org "gweled.org") - Free version of the popular puzzle game called Bejeweled or Diamond Mine.
   - [Klickety](https://kde.org/applications/games/klickety "kde.org/applications/games/klickety") - A simple, yet challenging color matching game.
   - [Price Of Persia Original Trilogy](https://www.popot.org "popot.org") - A classic platform and adventure game ported to many systems. For linux, it's possible to download the sdlpop here https://www.popot.org/get_the_games.php?game=SDLPoP
   - [Seven Kingdoms: Ancient Adversaries](https://7kfans.com/ "7kfans.com") - Seven Kingdoms is a series of "fantasy real-time strategy" computer games.
+  - [Shattered Pixel Dungeon](https://shatteredpixel.com/shatteredpd "shatteredpixel.com/shatteredpd") - Roguelike RPG, with pixel art graphics and lots of variety and replayability.
   - [SuperTuxKart](https://supertuxkart.net "supertuxkart.net") - 3D arcade racer with a variety characters, tracks, and modes to play.
   - [Tales of Maj'Eyal](https://te4.org "te4.org") - Roguelike RPG fantasy game featuring turn-based combat and character building.
   - [Tanks of Freedom](http://tof.p1x.in "tof.p1x.in") - Indie Turn Based Strategy in Isometric Pixel Art.
