@@ -135,6 +135,7 @@ What is worth using in the long run on a linux pc...
 - **[Visual Studio Code](https://code.visualstudio.com "Visual Studio Code")** - A lightweight but powerful source code editor.
   - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer "https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer") - An extension for colorizing matching brackets and code blocks.
   - Color Themes
+    - [Flat UI](https://lkytal.github.io/vscode-theme-flatui "https://lkytal.github.io/vscode-theme-flatui") - A flat syntax theme for VS Code (it's one of the best light theme for vs code, especially the 'Immersed' variation included in it).
     - [One Dark Pro](https://binaryify.github.io/OneDark-Pro/#/ "https://binaryify.github.io/OneDark-Pro/#/") - Atom's iconic One Dark theme for Visual Studio Code.
     - [Quiet Light+ Theme](https://marketplace.visualstudio.com/items?itemName=ban.quietlight-plus "marketplace.visualstudio.com/items?itemName=ban.quietlight-plus") - A good light theme for vs code, tuned a Bit "Quiet Light Theme"
     - [Super One Dark](https://marketplace.visualstudio.com/items?itemName=seansassenrath.vscode-theme-superonedark "marketplace.visualstudio.com/items?itemName=seansassenrath.vscode-theme-superonedark") - Atom One Dark Theme with darker background color.
