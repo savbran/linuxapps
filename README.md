@@ -74,6 +74,7 @@ What is worth using in the long run on a linux pc...
   - [Lollypop](https://wiki.gnome.org/Apps/Lollypop "Lollypop") - Modern muisc player and library organizer.
   - [MusicBrainz Picard](https://picard.musicbrainz.org "MusicBrainz Picard") - Music tagger that recovers music info from internet.
   - [PulseEffects](https://github.com/wwmm/pulseeffects "https://github.com/wwmm/pulseeffects") - Audio effects for Pulseaudio applications (equalizer, autogain and a lot of other effects).
+  - [Soundconverter](https://soundconverter.org "soundconverter.org") - The leading audio file converter for the GNOME Desktop, it reads and writes any format GStreamer can handle.
 - **Video**
   - [Kdenlive](https://kdenlive.org "Kdenlive") - KDE Non-Linear Video Editor.
   - [MPV](https://mpv.io "MPV") - Cross-platform media player with GPU video decoding.
