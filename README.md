@@ -39,7 +39,7 @@ What is worth using in the long run on a linux pc...
 - **2D**
   - [Alchemy](http://al.chemy.org "al.chemy.org") - Explore and experiment with alternative ways of drawing.
   - [Aseprite](https://www.aseprite.org "www.aseprite.org") - Animated sprite editor & pixel art tool.
-  - [Evolvotron](http://www.bottlenose.net/share/evolvotron "www.bottlenose.net/share/evolvotron") - An interactive "generative art" application for Linux. Since it is not maintained anymore, a fixed version due to evolving libraries has been created by me here: https://gitlab.com/saveriobran/evolvotron_fixed/tree/master
+  - [Evolvotron](http://www.bottlenose.net/share/evolvotron "www.bottlenose.net/share/evolvotron") - An interactive "generative art" application for Linux. Since it is not maintained anymore, a fixed version due to evolving component libraries has been created by me here: https://gitlab.com/saveriobran/evolvotron_fixed/tree/master. I also created the script ***evolvotron_picgen.py*** contained in the same gitlab repository. Check it out for more details.
   - [Gimp](http://www.gimp.org "www.gimp.org") - GNU Image Manipulation Program.
   - [Gravit Designer](https://www.designer.io "www.designer.io") - A cross-platform design tool.
   - [Krita](https://krita.org "krita.org") - A professional FREE and open source painting program.
