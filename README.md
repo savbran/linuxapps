@@ -137,10 +137,13 @@ What is worth using in the long run on a linux pc...
 - **[Visual Studio Code](https://code.visualstudio.com "Visual Studio Code")** - A lightweight but powerful source code editor.
   - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer "https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer") - An extension for colorizing matching brackets and code blocks.
   - Color Themes
-    - [Flat UI](https://lkytal.github.io/vscode-theme-flatui "https://lkytal.github.io/vscode-theme-flatui") - A flat syntax theme for VS Code (it's one of the best light theme for vs code, especially the 'Immersed' variation included in it).
+    - **[Flat UI](https://lkytal.github.io/vscode-theme-flatui "https://lkytal.github.io/vscode-theme-flatui")** - A flat syntax theme for VS Code (it's one of the best light theme for vs code, especially the 'Immersed' variation included in it).
     - [One Dark Pro](https://binaryify.github.io/OneDark-Pro/#/ "https://binaryify.github.io/OneDark-Pro/#/") - Atom's iconic One Dark theme for Visual Studio Code.
     - [Quiet Light+ Theme](https://marketplace.visualstudio.com/items?itemName=ban.quietlight-plus "marketplace.visualstudio.com/items?itemName=ban.quietlight-plus") - A good light theme for vs code, tuned a Bit "Quiet Light Theme"
     - [Super One Dark](https://marketplace.visualstudio.com/items?itemName=seansassenrath.vscode-theme-superonedark "marketplace.visualstudio.com/items?itemName=seansassenrath.vscode-theme-superonedark") - Atom One Dark Theme with darker background color.
+  - Icon Themes
+    - **[Simple icons](https://marketplace.visualstudio.com/items?itemName=LaurentTreguier.vscode-simple-icons "https://marketplace.visualstudio.com/items?itemName=LaurentTreguier.vscode-simple-icons")** - A simple icon theme for Visual Studio Code that strives to be simple, taking inspiration from official logos when possible.
+
   - [Code Outline](https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline "https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline") - A code outline tree provider for VSCode.
   - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint "https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint") - Integrates ESLint (pluggable linting utility for JavaScript and JSX) into VS Code.
   - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens") - Supercharge the Git capabilities built into Visual Studio Code.
@@ -149,6 +152,7 @@ What is worth using in the long run on a linux pc...
   - [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff "https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff") - Compare (diff) text selections within a file, across files, or to the clipboard.
   - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode "https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode") - VS Code package to format your JavaScript / TypeScript / CSS using Prettier.
   - [Python Extension Pack](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack "https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack") - Popular Visual Studio Code extensions for Python.
+  - **[Rewrap](https://marketplace.visualstudio.com/items?itemName=stkb.rewrap "https://marketplace.visualstudio.com/items?itemName=stkb.rewrap")** - Reformats text/code comments to a given line length or wrap margin (splits multirow lines at word wrap limit).
 - [Typora](https://typora.io/ "typora.io") - Minimalistic Markdown editor with good reference documentation (app-menu> Help> Markdown Reference).
 
 ### System
