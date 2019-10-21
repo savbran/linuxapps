@@ -85,7 +85,7 @@ What is worth using in the long run on a linux pc...
 
 - [LibreOffice](https://www.libreoffice.org "LibreOffice") - A powerful office suite.
 - [Master PDF Editor](https://code-industry.net/masterpdfeditor/ "Master PDF Editor") - Multifunctional PDF Editor.
-- [PDF Arranger](https://github.com/jeromerobert/pdfarranger "github.com/jeromerobert/pdfarranger") - Small and intuitive application, which helps the user to merge, split, rotate, crop and rearrange their pdf documents. I use inkscape to modify the pdf (single page), then PDF arranger to re-join the modified pdf single pages into one document.
+- [PDF Arranger](https://github.com/jeromerobert/pdfarranger "github.com/jeromerobert/pdfarranger") - Intuitive application used to merge, split, rotate, crop and rearrange pdf documents. It can be used with inkscape: 1. Import and modify the pdf (single page) in inkscape, 2. Export single page pdf files, 3. Drag and drop pdf files in PDF Arranger to re-join them into one document.
 - [Scribus](https://www.scribus.net "Scribus") - Page layout and desktop publishing for Linux.
 - [Xournal](http://xournal.sourceforge.net/ "Xournal") - Application for notetaking, sketching, keeping a journal using a stylus. Very useful also for PDF editing and save.
 
