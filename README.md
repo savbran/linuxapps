@@ -76,9 +76,10 @@ What is worth using in the long run on a linux pc...
   - [PulseEffects](https://github.com/wwmm/pulseeffects "https://github.com/wwmm/pulseeffects") - Audio effects for Pulseaudio applications (equalizer, autogain and a lot of other effects).
   - [Soundconverter](https://soundconverter.org "soundconverter.org") - The leading audio file converter for the GNOME Desktop, it reads and writes any format GStreamer can handle.
 - **Video**
-  - [Kdenlive](https://kdenlive.org "Kdenlive") - KDE Non-Linear Video Editor.
-  - [MPV](https://mpv.io "MPV") - Cross-platform media player with GPU video decoding.
-  - [OBS Studio](https://obsproject.com "OBS Studio") - Video recording and live streaming.
+  - [Kdenlive](https://kdenlive.org "kdenlive.org") - KDE Non-Linear Video Editor.
+  - [Handbrake](https://handbrake.fr "handbrake.fr") - The open source video transcoder.
+  - [MPV](https://mpv.io "mpv.io") - Cross-platform media player with GPU video decoding.
+  - [OBS Studio](https://obsproject.com "obsproject.com") - Video recording and live streaming.
   - [VLC media player](https://www.videolan.org/vlc/index.html "VLC media player") - Multimedia player and framework that plays most multimedia files.
 
 ### Office
