@@ -85,10 +85,10 @@ What is worth using in the long run on a linux pc...
 ### Office
 
 - [LibreOffice](https://www.libreoffice.org "LibreOffice") - A powerful office suite.
-- [Master PDF Editor](https://code-industry.net/masterpdfeditor/ "Master PDF Editor") - Multifunctional PDF Editor.
-- [PDF Arranger](https://github.com/jeromerobert/pdfarranger "github.com/jeromerobert/pdfarranger") - Intuitive application used to merge, split, rotate, crop and rearrange pdf documents.
-  It can be used with inkscape:
-  1. In Inkscape, import and modify the pdf (single page);
+- [Master PDF Editor](https://code-industry.net/masterpdfeditor/ "Master PDF Editor") - Multifunctional PDF Editor (non-free).
+- **[PDF Arranger](https://github.com/jeromerobert/pdfarranger "github.com/jeromerobert/pdfarranger")** - Intuitive application used to merge, split, rotate, crop and rearrange pdf documents.
+  It can be used with **[Inkscape](https://inkscape.org "inkscape.org")**:
+  1. In Inkscape, import and edit the pdf (single page);
   2. In Inkscape, save single pages as single pdf files;
   3. In PDF Arranger, drag and drop single pdf files;
   4. In PDF Arranger, re-join them into one document and save it.
