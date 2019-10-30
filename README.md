@@ -134,6 +134,7 @@ What is worth using in the long run on a linux pc...
 - **[Java](https://docs.oracle.com/en/java/ "docs.oracle.com/en/java/")** libraries: coming soon...
 - [JSON Editor Online](https://jsoneditoronline.org "jsoneditoronline.org") - Online editor to view, edit, and format JSON.
 - [OpenProject](https://www.openproject.org "OpenProject") - Open source project management software. Powerful, easy-to-use, free.
+- [PlantUML](http://plantuml.com "plantuml.com") - Utility to draw UML diagrams, using a simple and human readable text description.
 - [Restlet Client](https://restlet.com/modules/client/ "https://restlet.com/modules/client/") - Test & Automate your REST APIs (in Chrome/Chromium web browser or standalone)
 - **[Python](https://www.python.org "https://www.python.org")** packages:
   - [autopep8](https://pypi.org/project/autopep8/ "https://pypi.org/project/autopep8/") - A tool that automatically formats Python code to conform to the PEP 8 style guide.
