@@ -80,7 +80,9 @@ What is worth using in the long run on a linux pc...
   - [Handbrake](https://handbrake.fr "handbrake.fr") - The open source video transcoder.
   - [MPV](https://mpv.io "mpv.io") - Cross-platform media player with GPU video decoding.
   - [OBS Studio](https://obsproject.com "obsproject.com") - Video recording and live streaming.
-  - [VLC media player](https://www.videolan.org/vlc/index.html "VLC media player") - Multimedia player and framework that plays most multimedia files.
+  - [VLC media player](https://www.videolan.org/vlc/index.html "www.videolan.org/vlc/index.html") - Multimedia player and framework that plays most multimedia files.
+  - [youtube-dl](https://rg3.github.io/youtube-dl "youtube-dl") - A command-line program to download videos from YouTube.com and other sites.
+
 
 ### Office
 
@@ -131,10 +133,9 @@ What is worth using in the long run on a linux pc...
   - *Gherkin* - Provides support for Gherkin language.
   - *String Manipulation* - Provides actions for text manipulations: Switch case (camelCase, kebab-lowercase, KEBAB-UPPERCASE, snake_case, SCREAMING_SNAKE_CASE, dot.case, words lowercase, First word capitalized, Words Capitalized, PascalCase) and other functions.
   - *Python Community Edition* - The feature set of the plugin corresponding to PyCharm IDE Community Edition.
-- **[Java](https://docs.oracle.com/en/java/ "docs.oracle.com/en/java/")** libraries: coming soon...
 - [JSON Editor Online](https://jsoneditoronline.org "jsoneditoronline.org") - Online editor to view, edit, and format JSON.
 - [OpenProject](https://www.openproject.org "OpenProject") - Open source project management software. Powerful, easy-to-use, free.
-- [PlantUML](http://plantuml.com "plantuml.com") - Utility to draw UML diagrams, using a simple and human readable text description.
+- **[PlantUML](http://plantuml.com "plantuml.com")** - Utility to draw UML diagrams, using a simple and human readable text description.
 - [Restlet Client](https://restlet.com/modules/client/ "https://restlet.com/modules/client/") - Test & Automate your REST APIs (in Chrome/Chromium web browser or standalone)
 - **[Python](https://www.python.org "https://www.python.org")** packages:
   - [autopep8](https://pypi.org/project/autopep8/ "https://pypi.org/project/autopep8/") - A tool that automatically formats Python code to conform to the PEP 8 style guide.
@@ -173,7 +174,6 @@ What is worth using in the long run on a linux pc...
 - **Command line**
   - [OpenSSH](https://www.openssh.com "OpenSSH") - The premier connectivity tool for remote login with the SSH protocol (ssh, sftp).
   - [screenfetch](https://github.com/KittyKatt/screenFetch "screenfetch") - Fetches system/theme information in terminal for Linux desktop screenshots.
-  - [youtube-dl](https://rg3.github.io/youtube-dl "youtube-dl") - A command-line program to download videos from YouTube.com and a few more sites.
 - **Customizations**
   - [FontManager](https://github.com/FontManager/master "github.com/FontManager/master") - A simple font management application for GTK+ Desktop Environments.
   - Fonts
