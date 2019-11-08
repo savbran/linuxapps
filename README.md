@@ -4,6 +4,7 @@ What is worth using in the long run on a linux pc...
 ![icons preview](https://raw.githubusercontent.com/savbran/linuxapps/master/icons_preview.jpg)
 
 ### Gaming
+
 - **Games**
   - [Blockout II](http://www.blockout.net/blockout2 "www.blockout.net/blockout2") - 3D Block dropping game, that greatly exercises the 3d spatial capabilities of the human brain.
   - [Boulder Caves](https://github.com/irmen/bouldercaves "github.com/irmen/bouldercaves") - A Boulder Dash clone in pure python. Includes a cave editor so you can make your own game!
@@ -65,7 +66,6 @@ What is worth using in the long run on a linux pc...
 - [qBittorrent](https://www.qbittorrent.org "www.qbittorrent.org") - Bittorrent client programmed in C++ / Qt that uses libtorrent and useful plugins.
 - [qTox](https://qtox.github.io/ "qtox.github.io") - QTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. Instant messaging, video conferencing, and more.
 
-
 ### Multimedia
 
 - **Audio**
@@ -84,7 +84,6 @@ What is worth using in the long run on a linux pc...
   - [OBS Studio](https://obsproject.com "obsproject.com") - Video recording and live streaming.
   - [VLC media player](https://www.videolan.org/vlc/index.html "www.videolan.org/vlc/index.html") - Multimedia player and framework that plays most multimedia files.
   - [youtube-dl](https://rg3.github.io/youtube-dl "youtube-dl") - A command-line program to download videos from YouTube.com and other sites.
-
 
 ### Office
 
@@ -106,7 +105,6 @@ What is worth using in the long run on a linux pc...
 - [Jitsi](https://jitsi.org "jitsi.org") - Build and deploy secure videoconferencing solutions.
 - [Nextcloud](https://nextcloud.com "nextcloud.com") - Suite of client-server software for creating and using file hosting services.
 - [Wiki.js](https://wiki.js.org "wiki.js.org") - An open source, modern and powerful wiki app built on Node.js, Git and Markdown.
-
 
 ### School and Science
 
