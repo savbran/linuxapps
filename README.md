@@ -128,7 +128,7 @@ What is worth using in the long run on a linux pc...
   - [STS plugin](https://marketplace.eclipse.org/content/spring-tools-aka-spring-ide-and-spring-tool-suite "Spring Tool Suite") - Environment for building Spring-powered enterprise applications.
   - [WTP plugin](https://marketplace.eclipse.org/content/eclipse-web-developer-tools-0 "Web Tools Platform") - Web Developer Tools. Includes HTML, CSS, JSON, JavaScript, XML.
 - [Editor.md](https://pandao.github.io/editor.md/en.html "pandao.github.io/editor.md/en.html") - Online Markdown editor.
-- **[IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/ "https://www.jetbrains.com/idea/")** - Capable and ergonomic IDE for JVM.
+- **[IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/ "https://www.jetbrains.com/idea/")** - Capable and ergonomic IDE for JVM. (Preferred font: Fantasque Sans Mono, size: 15, line spacing: 1.2, enable font ligature: on)
   - *Cucumber for Java plugin* - Enables Cucumber support with step definitions written in Java.
   - *Gherkin* - Provides support for Gherkin language.
   - *String Manipulation* - Provides actions for text manipulations: Switch case (camelCase, kebab-lowercase, KEBAB-UPPERCASE, snake_case, SCREAMING_SNAKE_CASE, dot.case, words lowercase, First word capitalized, Words Capitalized, PascalCase) and other functions.
@@ -143,7 +143,7 @@ What is worth using in the long run on a linux pc...
   - [pylint](https://www.pylint.org/ "https://www.pylint.org") - A tool that checks for errors in Python code, tries to enforce a coding standard and looks for code smells.
   - [rope](https://pypi.org/project/rope/ "https://pypi.org/project/rope/") - A python refactoring library.
   - [yapf](https://github.com/google/yapf "https://github.com/google/yapf") - A formatter for Python files (preferred formattig style: google or pep8).
-- **[Visual Studio Code](https://code.visualstudio.com "Visual Studio Code")** - A lightweight but powerful source code editor.
+- **[Visual Studio Code](https://code.visualstudio.com "Visual Studio Code")** - A lightweight but powerful source code editor. (Preferred font: Hack, font size: 14)
   - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer "https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer") - An extension for colorizing matching brackets and code blocks.
   - Color Themes
     - **[Atom One Light Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight "https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight")** - VSCode Theme based on Atom's One Light theme.
