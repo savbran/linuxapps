@@ -89,8 +89,8 @@ What is worth using in the long run on a linux pc...
 
 - [LibreOffice](https://www.libreoffice.org "LibreOffice") - A powerful office suite.
 - [Master PDF Editor](https://code-industry.net/masterpdfeditor/ "Master PDF Editor") - Multifunctional PDF Editor (non-free).
-- **[PDF Arranger](https://github.com/jeromerobert/pdfarranger "github.com/jeromerobert/pdfarranger")** - Intuitive application used to merge, split, rotate, crop and rearrange pdf documents.
-  It can be used with **[Inkscape](https://inkscape.org "inkscape.org")**:
+- **[PDF Arranger](https://github.com/jeromerobert/pdfarranger "github.com/jeromerobert/pdfarranger")** - An application used to create a new multi-pages pdf document starting from single-page pdf files.
+  Combined with **[Inkscape](https://inkscape.org "inkscape.org")** it can be used to edit pdf documents:
   1. In Inkscape, import and edit the pdf (single page);
   2. In Inkscape, save single pages as single pdf files;
   3. In PDF Arranger, drag and drop single pdf files;
@@ -117,7 +117,7 @@ What is worth using in the long run on a linux pc...
 
 ### Software development
 
-- **[Eclipse](https://www.eclipse.org "Eclipse")** - Cross-plattform and cross-language IDE with powerful tools.
+- [Eclipse](https://www.eclipse.org "Eclipse") - Cross-plattform and cross-language IDE with powerful tools.
   - [ANSI Escape in Console plugin](https://marketplace.eclipse.org/content/ansi-escape-console "https://marketplace.eclipse.org/content/ansi-escape-console") - This plugin interprets the ANSI escape sequences to color the console output. Useful to correctly read Cucumber Test results output on Eclipse Console. It can be installed from Eclipse Marketplace.
   - [Cucumber Plugin](https://cucumber.github.io/cucumber-eclipse/ "https://cucumber.github.io/cucumber-eclipse/") - Official Eclipse plugin to use Cucumber. Cucumber is a tool that supports Behaviour-Driven Development (BDD). To install Cucumber in eclipse, don't use the Marketplace but install it as new software (Eclipse> Help> Install New Software...) using this site: http://cucumber.github.io/cucumber-eclipse/update-site/
   - [DevStyle plugin](https://cucumber.github.io/cucumber-eclipse/ "DevStyle") - Modernizing tools for Eclipse (theming, breadcrumb navigation, etc).
@@ -148,7 +148,7 @@ What is worth using in the long run on a linux pc...
   - Color Themes
     - **[Atom One Light Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight "https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight")** - VSCode Theme based on Atom's One Light theme.
     - [Quiet Light+ Theme](https://marketplace.visualstudio.com/items?itemName=ban.quietlight-plus "marketplace.visualstudio.com/items?itemName=ban.quietlight-plus") - A good light theme for vs code, tuned a Bit "Quiet Light Theme"
-    - [Flat UI](https://lkytal.github.io/vscode-theme-flatui "https://lkytal.github.io/vscode-theme-flatui") - A flat syntax theme for VS Code (it's one of the best light theme for vs code, especially the 'Immersed' variation included in it).
+    - **[Flat UI](https://lkytal.github.io/vscode-theme-flatui "https://lkytal.github.io/vscode-theme-flatui")** - A flat syntax theme for VS Code (it's one of the best light theme for vs code, especially the 'Immersed' variation included in it).
   - Icon Themes
     - **[Simple icons](https://marketplace.visualstudio.com/items?itemName=LaurentTreguier.vscode-simple-icons "https://marketplace.visualstudio.com/items?itemName=LaurentTreguier.vscode-simple-icons")** - A simple icon theme for Visual Studio Code that strives to be simple, taking inspiration from official logos when possible.
   - [Code Outline](https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline "https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline") - A code outline tree provider for VSCode.
@@ -178,8 +178,8 @@ What is worth using in the long run on a linux pc...
   - [FontManager](https://github.com/FontManager/master "github.com/FontManager/master") - A simple font management application for GTK+ Desktop Environments.
   - Fonts
     - [Droid Sans Mono](https://www.fontsquirrel.com/fonts/droid-sans-mono "www.fontsquirrel.com/fonts/droid-sans-mono") - Droid is a font family created by Ascender Corporation for use by the Open Handset Alliance platform, Android.
-    - [Fantasque Sans Mono](https://fontlibrary.org/en/font/fantasque-sans-mono "fontlibrary.org/en/font/fantasque-sans-mono") - Programming font, designed with functionality in mind.
-    - [Hack](https://sourcefoundry.org/hack "sourcefoundry.org/hack") - A typeface designed for source code.
+    - **[Fantasque Sans Mono](https://fontlibrary.org/en/font/fantasque-sans-mono "fontlibrary.org/en/font/fantasque-sans-mono")** - Programming font, designed with functionality in mind.
+    - **[Hack](https://sourcefoundry.org/hack "sourcefoundry.org/hack")** - A typeface designed for source code.
     - [Hermit](https://pcaro.es/p/hermit "pcaro.es/p/hermit") - Monospace font designed to be clear, pragmatic and very readable. For programming.
     - [Liberation Mono](https://fontlibrary.org/it/font/liberation-mono "fontlibrary.org/it/font/liberation-mono") - Liberation Mono aims at metric compatibility with Courier New. It is sponsored by Red Hat.
     - [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts "github.com/ryanoasis/nerd-fonts") - A set of fonts for programmers and nerds (in Arch linux there is the package nerd-fonts).
