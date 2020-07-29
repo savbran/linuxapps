@@ -47,6 +47,7 @@ What is worth using in the long run on a linux pc...
   - [Gravit Designer](https://www.designer.io "www.designer.io") - A cross-platform design tool.
   - [Krita](https://krita.org "krita.org") - A professional FREE and open source painting program.
   - [Inkscape](https://inkscape.org "inkscape.org") - Open-source vector graphics editor, Also used to modify pdf documents.
+  - [Photopea](https://www.photopea.com "photopea.com") - Free online image editor similar to photoshop.
 - **3D**
   - [Blender](https://www.blender.org "www.blender.org") - 3D creation suite.
   - [FreeCAD](https://freecadweb.org "freecadweb.org") - A parametric 3D modeler made primarily to design real-life objects of any size.
@@ -149,11 +150,11 @@ What is worth using in the long run on a linux pc...
 - **[Visual Studio Code](https://code.visualstudio.com "Visual Studio Code")** - A lightweight but powerful source code editor. (Preferred font: Hack, font size: 14)
   - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer "https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer") - An extension for colorizing matching brackets and code blocks.
   - Color Themes
-    - **[Atom One Light Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight "https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight")** - VSCode Theme based on Atom's One Light theme.
+    - [Atom One Light Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight "https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight") - VSCode Theme based on Atom's One Light theme.
     - [Quiet Light+ Theme](https://marketplace.visualstudio.com/items?itemName=ban.quietlight-plus "marketplace.visualstudio.com/items?itemName=ban.quietlight-plus") - A good light theme for vs code, tuned a Bit "Quiet Light Theme"
-    - **[Flat UI](https://lkytal.github.io/vscode-theme-flatui "https://lkytal.github.io/vscode-theme-flatui")** - A flat syntax theme for VS Code (it's one of the best light theme for vs code, especially the 'Immersed' variation included in it).
+    - [Flat UI](https://lkytal.github.io/vscode-theme-flatui "https://lkytal.github.io/vscode-theme-flatui") - A flat syntax theme for VS Code (it's one of the best light theme for vs code, especially the 'Immersed' variation included in it).
   - Icon Themes
-    - **[Simple icons](https://marketplace.visualstudio.com/items?itemName=LaurentTreguier.vscode-simple-icons "https://marketplace.visualstudio.com/items?itemName=LaurentTreguier.vscode-simple-icons")** - A simple icon theme for Visual Studio Code that strives to be simple, taking inspiration from official logos when possible.
+    - [Simple icons](https://marketplace.visualstudio.com/items?itemName=LaurentTreguier.vscode-simple-icons "https://marketplace.visualstudio.com/items?itemName=LaurentTreguier.vscode-simple-icons") - A simple icon theme for Visual Studio Code that strives to be simple, taking inspiration from official logos when possible.
   - [Code Outline](https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline "https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline") - A code outline tree provider for VSCode.
   - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint "https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint") - Integrates ESLint (pluggable linting utility for JavaScript and JSX) into VS Code.
   - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens") - Supercharge the Git capabilities built into Visual Studio Code.
