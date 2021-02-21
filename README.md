@@ -91,9 +91,10 @@ What is worth using in the long run on a linux pc...
 
 ### Office
 
-- [LibreOffice](https://www.libreoffice.org "LibreOffice") - A powerful office suite.
-- [Master PDF Editor](https://code-industry.net/masterpdfeditor/ "Master PDF Editor") - Multifunctional PDF Editor (non-free).
-- **[PDF Arranger](https://github.com/jeromerobert/pdfarranger "github.com/jeromerobert/pdfarranger")** - An application used to create a new multi-pages pdf document starting from single-page pdf files.
+- [Cool Reader](https://github.com/buggins/coolreader "github.com/buggins/coolreader") - Cross platform open source e-book reader (epub)
+- [LibreOffice](https://www.libreoffice.org "libreoffice.org") - A powerful office suite.
+- [Master PDF Editor](https://code-industry.net/masterpdfeditor "code-industry.net/masterpdfeditor") - Multifunctional PDF Editor (non-free).
+- [PDF Arranger](https://github.com/jeromerobert/pdfarranger "github.com/jeromerobert/pdfarranger") - An application used to create a new multi-pages pdf document starting from single-page pdf files.
   Combined with **[Inkscape](https://inkscape.org "inkscape.org")** it can be used to edit pdf documents:
   1. In Inkscape, import and edit the pdf (single page);
   2. In Inkscape, save single pages as single pdf files;
