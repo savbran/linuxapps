@@ -1,5 +1,5 @@
 # ~ Linux applications ~
-What is worth using in the long run on a linux pc...
+What is worth using on a linux pc in the long run ...
 
 ![icons preview](https://raw.githubusercontent.com/savbran/linuxapps/master/icons_preview.jpg)
 
